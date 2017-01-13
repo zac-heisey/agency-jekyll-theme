@@ -2,7 +2,7 @@ url: http://www.zac-heisey.com/ # the base hostname & protocal for the site
 baseurl: /rise-v2 # the subpath of dev site on GitHub pages > change to / before pushing live
 
 # Site settings
-title: RISE Physical Therapy | Physical Therapy in Solana Beach
+title: RISE Physical Therapy
 email: rise@risephysicaltherapy.com
 description: "Welcome to RISE Physical Therapy. Providing physical therapy in Solana Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!"
 
