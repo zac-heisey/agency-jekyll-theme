@@ -1,5 +1,5 @@
 url: http://www.zac-heisey.com/ # the base hostname & protocal for the site
-baseurl: /rise-v2/ # the subpath of dev site on GitHub pages > change to / before pushing live
+baseurl: /rise-v2 # the subpath of dev site on GitHub pages > change to / before pushing live
 
 # Site settings
 title: RISE Physical Therapy
@@ -9,9 +9,9 @@ description: "Welcome to RISE Physical Therapy. Providing physical therapy in So
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Navid Hannavash
   pic: 1
-  position: Lead Designer
+  position: DPT, ATC, CSCS, FAFS | CEO & Owner
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Alex Kelso
   pic: 2
-  position: Lead Marketer
+  position: Doctor of Physical Therapy
   social:
     - title: twitter
       url: #
@@ -31,9 +31,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Thomas Russell
   pic: 3
-  position: Lead Developer
+  position: Doctor of Physical Therapy
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Rachel Nesseth
+  pic: 1
+  position: Doctor of Physical Therapy
   social:
     - title: twitter
       url: #
@@ -45,20 +56,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/RISE_PT
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/officialrisephysicaltherapy
+  - title: google-plus
+    url: https://plus.google.com/+RISEPhysicalTherapySolanaBeach/
+  - title: instagram
+    url: https://instagram.com/rise_pt/
+  - title: linkedin
+    url: https://www.linkedin.com/company/rise-physical-therapy
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 380 Stevens Ave Suite 314
+  - line: Solana Beach, CA 92075
 
 # Build settings
 markdown: kramdown
