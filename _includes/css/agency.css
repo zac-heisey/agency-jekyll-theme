@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -300,9 +300,17 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+.intro-heading-2 {
+  margin-bottom: 25px;
+  font-family: {{ site.data.template.font.secondary }};
+  font-size: 22px;
+  font-style: italic;
+  line-height: 22px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
@@ -315,12 +323,20 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 40px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+    }
+
+    .intro-heading-2 {
+      margin-bottom: 40px;
+      font-family: {{ site.data.template.font.secondary }};
+      font-size: 40px;
+      font-style: italic;
+      line-height: 40px;
     }
 }
 
@@ -349,7 +365,7 @@ section h3.section-subheading {
     }
 }
 
-.service-heading {
+.about-heading {
     margin: 15px 0;
     text-transform: none;
 }
