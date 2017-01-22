@@ -461,7 +461,7 @@ section h3.locations {
     list-style: none;
 }
 
-.timeline:before {
+/*.timeline:before {
     content: "";
     position: absolute;
     top: 0;
@@ -470,7 +470,7 @@ section h3.locations {
     width: 2px;
     margin-left: -1.5px;
     background-color: #f1f1f1;
-}
+}*/
 
 .timeline>li {
     position: relative;
@@ -521,7 +521,6 @@ section h3.locations {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
 }
 
 .timeline>li .timeline-image h4 {
@@ -569,9 +568,9 @@ section h3.locations {
 }
 
 @media(min-width:768px) {
-    .timeline:before {
+    /*.timeline:before {
         left: 50%;
-    }
+    }*/
 
     .timeline>li {
         margin-bottom: 100px;
