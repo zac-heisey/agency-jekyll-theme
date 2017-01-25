@@ -449,6 +449,10 @@ section h3.locations {
     z-index: 2;
 }
 
+#insurance ul {
+  list-style: none;
+}
+
 @media(min-width:767px) {
     #services .services-item {
         margin: 0 0 30px;
