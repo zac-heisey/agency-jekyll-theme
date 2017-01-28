@@ -1,4 +1,4 @@
-navidurl: http://www.zac-heisey.com/ # the base hostname & protocal for the site
+url: http://www.zac-heisey.com/ # the base hostname & protocal for the site
 baseurl: /rise-v2 # the subpath of dev site on GitHub pages > change to / before pushing live
 
 # Site settings
