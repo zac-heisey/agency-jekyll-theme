@@ -901,3 +901,7 @@ body {
         margin: 0 1em 0 0;
     }
 }
+
+section#privacy-policy h3.section-subheading {
+  margin-bottom: 1em;
+}
