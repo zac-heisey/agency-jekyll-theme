@@ -891,3 +891,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+#return-button {
+  margin: 0 0 1em 0;
+}
+
+@media(min-width:600px) {
+    #return-button {
+        margin: 0 1em 0 0;
+    }
+}
