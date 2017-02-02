@@ -177,6 +177,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+    min-height: 70px;
 }
 
 .navbar-default .navbar-brand {
@@ -238,6 +239,16 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#navbar-logo {
+  margin-top: -20px;
+  transform: scale(.5);
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -246,6 +257,7 @@ fieldset[disabled] .btn-xl.active {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        min-height: 90px;
     }
 
     .navbar-default .navbar-brand {
@@ -266,6 +278,15 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+
+    .navbar-brand {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+
+    #navbar-logo {
+      transform: scale(.8);
     }
 }
 
