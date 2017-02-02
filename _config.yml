@@ -5,7 +5,7 @@ baseurl: /rise-v2 # the subpath of dev site on GitHub pages > change to / before
 title: RISE Physical Therapy
 email: rise@risephysicaltherapy.com
 description: "Welcome to RISE Physical Therapy. Providing physical therapy in Solana Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!"
-
+logo: img/logos/rise-main-logo.png
 
 # Team names, titles and social links
 people:
