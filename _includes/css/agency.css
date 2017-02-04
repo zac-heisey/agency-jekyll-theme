@@ -61,10 +61,6 @@ h6 {
     margin: 0 auto;
 }
 
-#primary-logo {
-  margin-top: 3em;
-}
-
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -397,6 +393,10 @@ section h3.locations {
 .about-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#about-section-buttons {
+  margin-top: 3em;
 }
 
 #services .services-item {
@@ -922,12 +922,14 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-#return-button {
+#return-button,
+#about-primewellness-button {
   margin: 0 0 1em 0;
 }
 
 @media(min-width:600px) {
-    #return-button {
+    #return-button,
+    #about-primewellness-button {
         margin: 0 1em 0 0;
     }
 }
