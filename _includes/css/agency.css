@@ -787,6 +787,16 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
+footer img {
+  margin-top: 1em;
+}
+
+@media(min-width:991px) {
+    footer img {
+        margin-top: 0;
+    }
+}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
