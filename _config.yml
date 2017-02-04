@@ -23,7 +23,7 @@ people:
 
 - name: Alex Kelso
   pic: alex
-  position: Doctor of Physical Therapy
+  position: PT, DPT, CAFS, FAFS
   bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
   social:
     - title: twitter
@@ -35,7 +35,7 @@ people:
 
 - name: Thomas Russell
   pic: thomas
-  position: Doctor of Physical Therapy
+  position: PT, DPT, CAFS
   bio: From his roots in competitive team sports, Thomas found a passion for sport-specific strength and conditioning which lead him to pursue a career in physical therapy. He is currently working toward earning his AFS certification, and will be pursing his Certified Strength and Conditioning Specialist certification in the near future as well.
   social:
     - title: twitter
@@ -47,7 +47,19 @@ people:
 
 - name: Rachel Nesseth
   pic: rachel
-  position: Doctor of Physical Therapy
+  position: PT, DPT, CAFS
+  bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Neilvon Langas
+  pic: navid
+  position: PT, DPT, CAFS
   bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
   social:
     - title: twitter
