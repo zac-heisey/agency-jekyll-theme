@@ -1,6 +1,6 @@
 ---
 title: Reconditioning
-subtitle: and Deconditioning
+subtitle: following Deconditioning
 layout: default
 modal-id: -reconditioning-deconditioning
 date: 2017-01-15
