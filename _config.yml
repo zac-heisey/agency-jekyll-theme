@@ -1,5 +1,5 @@
 url: http://www.zac-heisey.com # the base hostname & protocal for the site
-baseurl: / # the subpath of dev site on GitHub pages > change to / before pushing live
+baseurl: # the subpath of dev site on GitHub pages (rise-v2) > remove before pushing live or deployinf to netlify branch
 
 # Site settings
 title: RISE Physical Therapy
