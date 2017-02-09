@@ -362,7 +362,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding-top: 100px;
 }
 
 section h2.section-heading {
@@ -386,7 +386,7 @@ section h3.locations {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding-top: 150px;
     }
 }
 
@@ -707,6 +707,7 @@ section#contact {
     background-image: url('{{ site.baseurl }}/img/contact-bg-beach.png');
     background-position: center;
     background-repeat: no-repeat;
+    padding-bottom: 50px;
 }
 
 section#contact .form-group {
