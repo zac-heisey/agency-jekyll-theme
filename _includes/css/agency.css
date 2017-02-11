@@ -69,6 +69,10 @@ h6 {
     background-color: #222;
 }
 
+.btn {
+  white-space: normal;
+}
+
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     text-transform: uppercase;
@@ -236,8 +240,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-brand {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding: 0 15px 0 0;
 }
 
 #navbar-logo {
@@ -929,8 +932,7 @@ body {
 }
 
 @media(min-width:600px) {
-    #return-button,
-    #about-primewellness-button {
+    #return-button {
         margin: 0 1em 0 0;
     }
 }
