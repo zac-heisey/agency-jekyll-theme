@@ -302,6 +302,10 @@ header {
     -o-background-size: cover;
 }
 
+header#solana-beach {
+  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/solana-beach-header-bg.jpg');
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -366,6 +370,10 @@ header .intro-text .intro-heading {
 
 section {
     padding-top: 100px;
+}
+
+section#location-content {
+  margin-bottom: 50px;
 }
 
 section h2.section-heading {
