@@ -73,6 +73,10 @@ h6 {
   white-space: normal;
 }
 
+#location-contact-btn {
+  margin-bottom: 1em;
+}
+
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     text-transform: uppercase;
@@ -304,6 +308,14 @@ header {
 
 header#solana-beach {
   background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/solana-beach-header-bg.jpg');
+}
+
+header#carlsbad {
+  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/carlsbad-header-bg.jpg');
+}
+
+header#point-loma {
+  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/point-loma-header-bg.jpg');
 }
 
 header .intro-text {
