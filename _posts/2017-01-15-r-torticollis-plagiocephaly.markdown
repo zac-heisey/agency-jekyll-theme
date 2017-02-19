@@ -9,5 +9,5 @@ thumbnail: torticollis-plagiocephaly-thumbnail.jpg
 alt: image-alt
 category: Torticollis and Plagiocephaly Treatment
 description: Treatment available in at Point Loma location only. REST OF DESCRIPTION TBD.
-
+categories: services
 ---
