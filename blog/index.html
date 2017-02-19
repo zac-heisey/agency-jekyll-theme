@@ -1,0 +1,23 @@
+---
+layout: page
+title: RISE Physical Therapy Blog
+description: Welcome to the RISE Physical Therapy Blog. Enjoy!
+---
+
+<div class="blog">
+  <h1>Welcome to the RISE Physical Therapy Blog</h1>
+  
+  <h2>Recent Posts</h2>
+
+  <ul class="posts">
+    {% for page in site.blog %}
+      <li>
+        <span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
