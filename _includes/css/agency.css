@@ -247,6 +247,10 @@ fieldset[disabled] .btn-xl.active {
   padding: 0 15px 0 0;
 }
 
+#navbar-brand-locations {
+  padding: 0;
+}
+
 #navbar-logo {
   margin-top: -20px;
   transform: scale(.5);
@@ -495,6 +499,7 @@ section h3.locations {
 
 #insurance ul {
   list-style: none;
+  padding: 0;
 }
 
 @media(min-width:767px) {
