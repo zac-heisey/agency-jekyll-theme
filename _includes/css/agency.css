@@ -178,8 +178,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-.navbar-default,
-#navbar-blog {
+.navbar-default {
     border-color: transparent;
     background-color: #222;
     min-height: 70px;
