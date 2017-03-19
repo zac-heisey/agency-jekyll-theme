@@ -13,16 +13,14 @@
 /biomechanical-assessment         /#services              301
 /pediatric-rehab         /#services              301
 /elite-sports-training-and-rehabilitation         /#services              301
-/our-staff         /#team              301
-/our-staff/rise         /#team              301
-/our-staff/navid-hannanvash         /#team              301
-/our-staff/thomas-russell         /#team              301
-/our-staff/rachel-nesseth         /#team              301
-/our-staff/alex-kelso         /#team              301
+/our-staff/*         /#team              301
 /navid-hannanvash         /#team              301
 /thomas-russell         /#team              301
 /rachel-nesseth         /#team              301
 /alex-kelso         /#team              301
+/cole-godfrey         /#team              301
+/mike-messina         /#team              301
+/colleen-page         /#team              301
 /about-us         /#about              301
 /testimonials         /              301
 /marcello-margott         /              301
@@ -38,10 +36,19 @@
 /la-canada-flintridge         /#locations              301
 /silver-strand-physical-therapy         /#locations              301
 /what-does-rise-mean-to-you         /              301
-
+/tag/*         /              301
+/locations/encinitas-physical-therapy        /#locations              301
+/testimonials/page/2/         /              301
+/welcome-dr-alex-kelso/feed/         /              301
+/?page_id=608         /              301
+/?p=605         /              301
+/494         /              301
 
 # RISE Blog Redirects
 /rise-blog         /blog              301
+/rise-blog/page/2         /blog              301
+/rise-blog/page/3         /blog              301
+/blog/rise-and-rise-again742014         /blog              301
 /foundations         /blog              301
 /foundations-series         /blog              301
 /powered-by-rise         /blog              301
