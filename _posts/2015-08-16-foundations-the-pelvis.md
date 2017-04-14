@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: Foundations - The Pelvis
-description: The pelvis acts as a foundational for the spine and provides stability. Learn more about physical therapy for the pelvis and dry-land training.
-date: 2015-08-16
-categories: blog
+date: 2015-08-16 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: The pelvis acts as a foundational for the spine and provides stability.
+  Learn more about physical therapy for the pelvis and dry-land training.
 featured-image: img/blog/pelvis.jpg
 alt-tag: Pelvis
 ---

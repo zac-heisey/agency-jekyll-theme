@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: How Elite Athletes Can Use Physical Therapy As Part of Their Training Program
-description: By incorporating physical therapy into a standard training program, elite athletes can reap additional benefits through sports therapy & rehabilitation.
-date: 2015-10-25
-categories: blog
+date: 2015-10-25 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: By incorporating physical therapy into a standard training program, elite
+  athletes can reap additional benefits through sports therapy & rehabilitation.
 featured-image: img/blog/elite-athlete.jpg
 alt-tag: Sports Physical Therapy for Elite Athletes
 ---

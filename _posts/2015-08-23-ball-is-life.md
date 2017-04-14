@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: Ball.Is.Life
-description: Dr. Navid Hannanvash grew up on a basketball court and attributes the lessons he learned to many of the founding principles of RISE Physical Therapy.
-date: 2015-08-23
-categories: blog
+date: 2015-08-23 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: Dr. Navid Hannanvash grew up on a basketball court and attributes the
+  lessons he learned to many of the founding principles of RISE Physical Therapy.
 featured-image: img/blog/ball-is-life.jpg
 alt-tag: Basketball Is Life
 ---

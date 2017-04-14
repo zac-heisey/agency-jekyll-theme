@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: The Do's and Don'ts of Injury Rehabilitation
-description: RISE is a proud member of the North County business community. We provide physical therapy in Solana Beach, Carlsbad, and Point Loma.
-date: 2015-09-17
-categories: blog
+date: 2015-09-17 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: RISE is a proud member of the North County business community. We provide
+  physical therapy in Solana Beach, Carlsbad, and Point Loma.
 featured-image: img/blog/injury-rehab.jpg
 alt-tag: Injury Rehabilitation Exercises
 ---

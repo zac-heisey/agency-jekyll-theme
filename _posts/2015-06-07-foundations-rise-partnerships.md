@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: Foundations - New RISE Partnerships
-description: RISE Physical Therapy is proud to announce our partnership with the Solana Beach Boys and Girls Club and the Rancho San Dieguito Swim Club!
-date: 2015-06-07
-categories: blog
+date: 2015-06-07 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: RISE Physical Therapy is proud to announce our partnership with the Solana
+  Beach Boys and Girls Club and the Rancho San Dieguito Swim Club!
 featured-image: img/blog/foundations.jpg
 alt-tag: Brick Foundation
 ---

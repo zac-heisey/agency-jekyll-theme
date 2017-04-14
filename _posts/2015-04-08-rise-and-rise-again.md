@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: RISE and RISE Again
-description: At RISE Physical Therapy we strive to uphold all the core values of our company that are contained with our name - Revolution In Self Evolution.
-date: 2015-04-08
-categories: blog
+date: 2015-04-08 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: At RISE Physical Therapy we strive to uphold all the core values of our
+  company that are contained with our name - Revolution In Self Evolution.
 featured-image: img/blog/rise-and-rise-again.png
 alt-tag: Rise and Rise Again
 ---

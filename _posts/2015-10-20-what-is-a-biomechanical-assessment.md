@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: What is a Biomechanical Assessment and Why You Should Get One
-description: Most physical therapy treatment plans begin and end with a biomechanical assessment to track patient progress and help patients achieve maximum mobility.
-date: 2015-10-20
-categories: blog
+date: 2015-10-20 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: Most physical therapy treatment plans begin and end with a biomechanical
+  assessment to track patient progress and help patients achieve maximum mobility.
 featured-image: img/blog/biomechanical-assessment.jpg
 alt-tag: Biomechanical Assessment
 ---

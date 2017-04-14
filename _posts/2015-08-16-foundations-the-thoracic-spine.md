@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: Foundations - The Thoracic Spine
-description: The thoracic spine is often the cause of many of these injuries because of a lack of motion in its segments. Here are some thoracic spine Do's & Don'ts.
-date: 2015-08-16
-categories: blog
+date: 2015-08-16 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: The thoracic spine is often the cause of many of these injuries because
+  of a lack of motion in its segments. Here are some thoracic spine Do's & Don'ts.
 featured-image: img/blog/thoracic-spine.png
 alt-tag: Thoracic Spine
 ---
