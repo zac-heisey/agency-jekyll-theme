@@ -87,6 +87,13 @@ address:
   - line: 380 Stevens Ave Suite 314
   - line: Solana Beach, CA 92075
 
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: /:categories/:title
+
 # Build settings
 markdown: kramdown
 permalink: pretty
