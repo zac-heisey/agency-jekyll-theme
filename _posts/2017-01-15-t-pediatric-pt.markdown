@@ -3,7 +3,7 @@ title: Pediatric Rehab
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Pediatric Rehabilitation and Physical Therapy
+service: Pediatric Rehabilitation and Physical Therapy
 subtitle: and Physical Therapy
 layout: default
 modal-id: "-pediatric-physical-therapy"
@@ -17,4 +17,3 @@ description: Working with children and young adults is one of the many wonderful
   working with all levels of pediatric injuries including ankle/knee sprains, growth
   plate fractures, low back pain, shoulder instability, and tendinitis.
 ---
-

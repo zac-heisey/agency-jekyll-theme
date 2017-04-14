@@ -3,7 +3,7 @@ title: Torticollis
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Torticollis and Plagiocephaly Treatment (Point Loma Only)
+service: Torticollis and Plagiocephaly Treatment (Point Loma Only)
 subtitle: and Plagiocephaly Treatment
 layout: default
 modal-id: "-torticollis-plagiocephaly-treatment"
@@ -23,4 +23,3 @@ description: Many parents are not sure what to do when their child is diagnosed 
   dysplasia, and scoliosis). To learn more about how our treatments can help your
   child, contact our Point Loma location!
 ---
-

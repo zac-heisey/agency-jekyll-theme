@@ -3,7 +3,7 @@ title: Vestibular
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Vestibular and Neurological Rehabilitation
+service: Vestibular and Neurological Rehabilitation
 subtitle: and Neurological Rehab
 layout: default
 modal-id: "-neurological-rehabilitation"
@@ -19,4 +19,3 @@ description: Not every patient at RISE is being treated for a musculoskeletal di
   Sclerosis, headaches or migraines, and vertigo or dizziness. Learn more about RISE
   Physical Therapy, browse our staff profiles, or contact us today!
 ---
-

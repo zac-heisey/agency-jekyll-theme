@@ -3,7 +3,7 @@ title: Acute Injury
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Acute Injury and Post-Op Care
+service: Acute Injury and Post-Op Care
 subtitle: and Post-Op Care
 layout: default
 modal-id: "-acute-injury"
@@ -18,4 +18,3 @@ description: We offer immediate treatment through the critical acute stage of in
   assist you with foot/ankle, knee, hip, spine (lumbar, thoracic, or cervical), shoulder,
   and elbow/wrist/hand.
 ---
-

@@ -3,7 +3,7 @@ title: Reconditioning
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Reconditioning Exercises and Deconditioning Prevention
+service: Reconditioning Exercises and Deconditioning Prevention
 subtitle: following Deconditioning
 layout: default
 modal-id: "-reconditioning-deconditioning"
@@ -18,4 +18,3 @@ description: Deconditioning is the loss of function following a period of inacti
   body weight exercises, along with simple home program based around easy-to-follow
   pictures and videos.
 ---
-

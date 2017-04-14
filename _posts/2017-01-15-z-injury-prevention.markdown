@@ -3,7 +3,7 @@ title: Injury Prevention
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Injury Prevention and Exercise Programs
+service: Injury Prevention and Exercise Programs
 subtitle: and Exercise Programs
 layout: default
 modal-id: "-injury-prevention"
@@ -17,4 +17,3 @@ description: At RISE, we believe that preventing an injury may be just as, if no
   the community we offer Free Injury Assessments in Solana Beach. Please contact us
   to schedule a free injury assessment, or stop by our office!
 ---
-

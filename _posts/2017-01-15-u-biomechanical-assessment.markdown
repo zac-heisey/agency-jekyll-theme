@@ -3,7 +3,7 @@ title: Biomechanical Assessment
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Biomechanical Assessment and Body Analysis
+service: Biomechanical Assessment and Body Analysis
 subtitle: and Body Analysis
 layout: default
 modal-id: "-biomechanical-assessment"
@@ -19,4 +19,3 @@ description: We offer a total body biomechanical assessment to all of our patien
   their long term health. We strive to assess, treat, and train the body in the most
   authentic and functional positions to set the body up for success.
 ---
-

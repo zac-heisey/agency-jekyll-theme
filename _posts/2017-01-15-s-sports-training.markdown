@@ -3,7 +3,7 @@ title: Elite Sports Training
 date: 2017-01-15 00:00:00 Z
 categories:
 - services
-- Elite Sports Training and Sports Rehabilitation
+service: Elite Sports Training and Sports Rehabilitation
 subtitle: and Sports Rehabilitation
 layout: default
 modal-id: "-elite-sports-training"
@@ -18,4 +18,3 @@ description: We offer immediate treatment through the critical acute stage of in
   assist you with foot/ankle, knee, hip, spine (lumbar, thoracic, or cervical), shoulder,
   and elbow/wrist/hand.
 ---
-
