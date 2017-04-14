@@ -6,7 +6,6 @@ date: 2015-10-20
 categories: blog
 featured-image: img/blog/biomechanical-assessment.jpg
 alt-tag: Biomechanical Assessment
-permalink: /:categories/what-is-a-biomechanical-assessment
 ---
 
 A biomechanical assessment is a critical analysis of your body and all of its moving parts. During a standard biomechanical assessment, your physical therapist will have a quick discussion with you to find out what aches or pains you may be having, what your medical or injury history looks like, and what your goals are. From there, your therapist will watch you move, sit, stand, reach, twist or do whatever your body needs to do to accomplish your daily tasks in an effort put together a framework of your movement. This assessment allows your [physical therapist](/#team) to understand what body parts and tissues are moving too much and what’s not moving enough, what’s tight and what’s loose, and what’s strong and what’s weak in order to develop an action plan for your care.

@@ -6,7 +6,6 @@ date: 2015-04-08
 categories: blog
 featured-image: img/blog/rise-and-rise-again.png
 alt-tag: Rise and Rise Again
-permalink: /:categories/rise-and-rise-again
 ---
 
 > #### “RISE and RISE again until lambs become lions.” – Robin Hood

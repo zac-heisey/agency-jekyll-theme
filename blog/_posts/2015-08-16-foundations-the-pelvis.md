@@ -6,7 +6,6 @@ date: 2015-08-16
 categories: blog
 featured-image: img/blog/pelvis.jpg
 alt-tag: Pelvis
-permalink: /:categories/foundations-the-pelvis
 ---
 
 Going back to our foundational principles, we can look at the body the same way we look at a house. In the body, just like a house, if the foundation is not solid then the house is likely to crumble. When looking at the trunk we can see that the three different spinal segments (lumbar, thoracic, and cervical spines) sit on top of a large structure that looks a lot like a strong base/foundation. The pelvis acts as a foundational for the spine and allows the spine to sit on a mobile but stable environment.

@@ -6,7 +6,6 @@ date: 2015-08-23
 categories: blog
 featured-image: img/blog/ball-is-life.jpg
 alt-tag: Basketball Is Life
-permalink: /:categories/ball-is-life
 ---
 
 The expression may be new to most, but for RISE it has a sense of nostalgia. Our owner, Dr. Navid Hannanvash, DPT, ATC, CSCS, FAFS grew up spending most of his youth on a basketball court and attributes the lessons he learned on the court to origins of many of the foundational principles [RISE Physical Therapy](/) was built on.

@@ -6,7 +6,6 @@ date: 2015-08-18
 categories: blog
 featured-image: img/blog/dr-alex-kelso.jpg
 alt-tag: Dr. Alex Kelso
-permalink: /:categories/welcome-dr-alex-kelso
 ---
 
 Unlike most medical practices, RISE Physical Therapy is based on our community. For that reason, we have chosen never to hire another provider for the sole reason of growth for the practice. We have made a promise to our patients and the community to only grow when we have individuals who have demonstrated their ability to grow within their community. One of our core foundational principles involves individualized patient care and community support. RISE continues to be an innovator in patient-centered, [one-on-one physical therapy](/). It is for that reason that we are proud to announce to hiring of Dr. Alex Kelso, DPT, CAFS.

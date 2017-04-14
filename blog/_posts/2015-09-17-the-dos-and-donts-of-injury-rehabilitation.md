@@ -6,7 +6,6 @@ date: 2015-09-17
 categories: blog
 featured-image: img/blog/injury-rehab.jpg
 alt-tag: Injury Rehabilitation Exercises
-permalink: /:categories/the-dos-and-donts-of-injury-rehabilitation
 ---
 
 Getting injured is no fun. Sometimes, though, the rehabilitation exercises required to get you back to 100% are even more difficult. This can sometimes lead to patients cutting corners, doing the wrong exercises or performing certain movements incorrectly, or even completely ignoring their injury rehab regimen altogether.

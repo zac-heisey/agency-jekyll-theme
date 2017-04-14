@@ -6,7 +6,6 @@ date: 2015-09-03
 categories: blog
 featured-image: img/blog/sprained-ankle.jpg
 alt-tag: Sprained Ankle
-permalink: /:categories/the-6-most-common-sports-injuries-and-how-you-can-avoid-them
 ---
 
 People in San Diego are active - really active. Venture outside on any given day of the week, and you'll see joggers, bikers, surfers, skateboarders, people walking their dogs, moms pushing strollers - the list goes on. This makes sense, considering that San Diego is ranked as one of America's sunniest and healthiest cities.

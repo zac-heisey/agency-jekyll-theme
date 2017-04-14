@@ -6,7 +6,6 @@ date: 2016-01-12
 categories: blog
 featured-image: img/blog/north-county-love.jpg
 alt-tag: North County San Diego
-permalink: /:categories/north-county-love
 ---
 
 Although our love for therapy and wellness is growing across San Diego County, at RISE Physical Therapy we always remain true to our roots. Our original clinic was established in Solana Beach on March 17th, 2014 and our roots have continued to spread across North County. In addition to our original location in Solana Beach, we have been extremely fortunate to grow our presence in North County through our [physical therapy clinic in Carlsbad](http://localhost:4000/locations/carlsbad-physical-therapy).

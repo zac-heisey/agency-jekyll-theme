@@ -6,7 +6,6 @@ date: 2015-08-16
 categories: blog
 featured-image: img/blog/thoracic-spine.png
 alt-tag: Thoracic Spine
-permalink: /:categories/foundations-the-thoracic-spine
 ---
 
 The spinal column is broken up into three segments known as the cervical spine, thoracic spine, and lumbar spine. Often the neck (cervical spine) and low back (lumbar spine) get a lot of attention because they are frequently the site of pain. However, the thoracic spine is often the cause of many of these injuries because of a lack of motion in its segments. In particularly for swimmers, the thoracic spine is the foundation on which many things happen, most notably shoulder movement.

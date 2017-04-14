@@ -6,7 +6,6 @@ date: 2015-10-25
 categories: blog
 featured-image: img/blog/elite-athlete.jpg
 alt-tag: Sports Physical Therapy for Elite Athletes
-permalink: /:categories/how-elite-athletes-can-use-physical-therapy-as-part-of-their-training-program
 ---
 
 Upper level athletics are defined by inches and seconds. Those tiny differences are what separate a touchdown from a tackle, a dunk from a block, a completion from an interception, and a goal from a save. That’s why as elite athletes strive to optimize their health and function and why physical therapy can be such an integral part of their training program.

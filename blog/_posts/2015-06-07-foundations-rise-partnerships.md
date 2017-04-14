@@ -6,7 +6,6 @@ date: 2015-06-07
 categories: blog
 featured-image: img/blog/foundations.jpg
 alt-tag: Brick Foundation
-permalink: /:categories/foundations-rise-partnerships
 ---
 
 > #### "The loftier the building, the deeper must the foundation be laid." ~ Thomas à Kempis
