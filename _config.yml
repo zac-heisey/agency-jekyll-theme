@@ -1,100 +1,114 @@
-url: http://www.risephysicaltherapy.com # the base hostname & protocal for the site
-baseurl: # the subpath of dev site on GitHub pages > remove before pushing to live
-
-# Site settings
+---
 title: RISE Physical Therapy
-email: rise@risephysicaltherapy.com
-description: "Welcome to RISE Physical Therapy. Providing physical therapy in Solana Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!"
-logo: img/logos/rise-main-logo.png
-
-# Team names, titles and social links
-people:
-- name: Navid Hannavash
-  pic: navid
-  position: DPT, ATC, CSCS, FAFS | CEO & Owner
-  bio: In addition to striving to set up environments to provide the most quality care to his patients, Navid enjoys spending time with his friends and family, walking his wolf Jasmine around town, and all things sports (especially basketball) and food related.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Alex Kelso
-  pic: alex
-  position: PT, DPT, CAFS, FAFS
-  bio: Alex found physical therapy through his own physical struggles, which built his passion for working to improve the quality of life of his patients. Alex enjoys boating, working on anything with a motor, or cheering on the Florida Gators. He holds a doctorate from the University of Southern California, and is an Applied Functional Science fellow.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Thomas Russell
-  pic: thomas
-  position: PT, DPT, CAFS
-  bio: From his roots in competitive team sports, Thomas found a passion for sport-specific strength and conditioning which lead him to pursue a career in physical therapy. He is currently working toward earning his AFS certification, and will be pursuing his Certified Strength and Conditioning Specialist certification in the near future as well.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Rachel Nesseth
-  pic: rachel
-  position: PT, DPT, CAFS
-  bio: Rachel's passion for movement began with dance, which inspired her to pursue a career in physical therapy. When not in the clinic with patients, she enjoys being outdoors with her dog Emma, creating art, and enjoying good food with family and friends.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Kelsey Diaz
-  pic: kelsey
-  position: PT, DPT
-  bio: Kelsey’s first experience with physical therapy came during her time overcoming injuries as a competitive gymnast. While attending the University of Florida, she became a group fitness instructor, which helped her realize her passion for helping others stay healthy through movement. She earned her doctorate degree in physical therapy from UF and relocated to San Diego to start her career.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/RISE_PT
-  - title: facebook
-    url: https://www.facebook.com/officialrisephysicaltherapy
-  - title: google-plus
-    url: https://plus.google.com/+RISEPhysicalTherapySolanaBeach/
-  - title: instagram
-    url: https://instagram.com/rise_pt/
-  - title: linkedin
-    url: https://www.linkedin.com/company/rise-physical-therapy
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 380 Stevens Ave Suite 314
-  - line: Solana Beach, CA 92075
-
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
     type: posts
   values:
-    permalink: /:categories/:title
-
-# Build settings
+    permalink: "/:categories/:title"
+url: http://www.risephysicaltherapy.com
+baseurl: 
+email: rise@risephysicaltherapy.com
+description: Welcome to RISE Physical Therapy. Providing physical therapy in Solana
+  Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!
+logo: img/logos/rise-main-logo.png
+people:
+- name: Navid Hannavash
+  pic: navid
+  position: DPT, ATC, CSCS, FAFS | CEO & Owner
+  bio: In addition to striving to set up environments to provide the most quality
+    care to his patients, Navid enjoys spending time with his friends and family,
+    walking his wolf Jasmine around town, and all things sports (especially basketball)
+    and food related.
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: stack-overflow
+    url: 
+- name: Alex Kelso
+  pic: alex
+  position: PT, DPT, CAFS, FAFS
+  bio: Alex found physical therapy through his own physical struggles, which built
+    his passion for working to improve the quality of life of his patients. Alex enjoys
+    boating, working on anything with a motor, or cheering on the Florida Gators.
+    He holds a doctorate from the University of Southern California, and is an Applied
+    Functional Science fellow.
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: linkedin
+    url: 
+- name: Thomas Russell
+  pic: thomas
+  position: PT, DPT, CAFS
+  bio: From his roots in competitive team sports, Thomas found a passion for sport-specific
+    strength and conditioning which lead him to pursue a career in physical therapy.
+    He is currently working toward earning his AFS certification, and will be pursuing
+    his Certified Strength and Conditioning Specialist certification in the near future
+    as well.
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: google-plus
+    url: 
+- name: Rachel Nesseth
+  pic: rachel
+  position: PT, DPT, CAFS
+  bio: Rachel's passion for movement began with dance, which inspired her to pursue
+    a career in physical therapy. When not in the clinic with patients, she enjoys
+    being outdoors with her dog Emma, creating art, and enjoying good food with family
+    and friends.
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: google-plus
+    url: 
+- name: Kelsey Diaz
+  pic: kelsey
+  position: PT, DPT
+  bio: Kelsey’s first experience with physical therapy came during her time overcoming
+    injuries as a competitive gymnast. While attending the University of Florida,
+    she became a group fitness instructor, which helped her realize her passion for
+    helping others stay healthy through movement. She earned her doctorate degree
+    in physical therapy from UF and relocated to San Diego to start her career.
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: google-plus
+    url: 
+social:
+- title: twitter
+  url: http://twitter.com/RISE_PT
+- title: facebook
+  url: https://www.facebook.com/officialrisephysicaltherapy
+- title: google-plus
+  url: https://plus.google.com/+RISEPhysicalTherapySolanaBeach/
+- title: instagram
+  url: https://instagram.com/rise_pt/
+- title: linkedin
+  url: https://www.linkedin.com/company/rise-physical-therapy
+address:
+- line: 380 Stevens Ave Suite 314
+- line: Solana Beach, CA 92075
 markdown: kramdown
 permalink: pretty
-include: [_redirects]
+include:
+- _redirects

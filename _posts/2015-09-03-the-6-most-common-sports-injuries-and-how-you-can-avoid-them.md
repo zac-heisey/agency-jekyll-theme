@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: The 6 Most Common Sports Injuries (and How You Can Avoid Them)
-description: If you're physically active or involved in sports, you'll want to know about the most common sports injuries, and how you can avoid them.
-date: 2015-09-03
-categories: blog
+date: 2015-09-03 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: If you're physically active or involved in sports, you'll want to know
+  about the most common sports injuries, and how you can avoid them.
 featured-image: img/blog/sprained-ankle.jpg
 alt-tag: Sprained Ankle
 ---

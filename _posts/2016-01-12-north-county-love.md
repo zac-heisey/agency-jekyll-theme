@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: North County Love
-description: RISE is a proud member of the North County business community. We provide physical therapy in Solana Beach, Carlsbad, and Point Loma.
-date: 2016-01-12
-categories: blog
+date: 2016-01-12 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: RISE is a proud member of the North County business community. We provide
+  physical therapy in Solana Beach, Carlsbad, and Point Loma.
 featured-image: img/blog/north-county-love.jpg
 alt-tag: North County San Diego
 ---

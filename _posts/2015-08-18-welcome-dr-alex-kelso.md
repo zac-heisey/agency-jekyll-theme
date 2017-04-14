@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: Welcome Dr. Alex Kelso to the RISE Physical Therapy Family
-description: Please join us in welcoming Dr. Alex Kelso to the RISE Physical Therapy family!
-date: 2015-08-18
-categories: blog
+date: 2015-08-18 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: Please join us in welcoming Dr. Alex Kelso to the RISE Physical Therapy
+  family!
 featured-image: img/blog/dr-alex-kelso.jpg
 alt-tag: Dr. Alex Kelso
 ---

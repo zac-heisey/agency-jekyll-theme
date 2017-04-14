@@ -1,9 +1,11 @@
 ---
-layout: blog_post
 title: Running Injury Prevention Clinic at Movin Shoes
-description: RISE Physical Therapy is proud to partner with Movin Shoes in Encinitas and offer running injury prevention clinics to the North County running community.
-date: 2016-01-06
-categories: blog
+date: 2016-01-06 00:00:00 Z
+categories:
+- blog
+layout: blog_post
+description: RISE Physical Therapy is proud to partner with Movin Shoes in Encinitas
+  and offer running injury prevention clinics to the North County running community.
 featured-image: img/blog/movin-shoes.png
 alt-tag: Movin Shoes Logo
 ---
