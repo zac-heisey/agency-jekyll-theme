@@ -18,3 +18,4 @@ description: We offer immediate treatment through the critical acute stage of in
   assist you with foot/ankle, knee, hip, spine (lumbar, thoracic, or cervical), shoulder,
   and elbow/wrist/hand.
 ---
+

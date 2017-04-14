@@ -23,3 +23,4 @@ description: Many parents are not sure what to do when their child is diagnosed 
   dysplasia, and scoliosis). To learn more about how our treatments can help your
   child, contact our Point Loma location!
 ---
+

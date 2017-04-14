@@ -19,3 +19,4 @@ description: Not every patient at RISE is being treated for a musculoskeletal di
   Sclerosis, headaches or migraines, and vertigo or dizziness. Learn more about RISE
   Physical Therapy, browse our staff profiles, or contact us today!
 ---
+

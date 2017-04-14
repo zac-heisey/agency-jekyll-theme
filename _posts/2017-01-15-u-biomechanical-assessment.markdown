@@ -19,3 +19,4 @@ description: We offer a total body biomechanical assessment to all of our patien
   their long term health. We strive to assess, treat, and train the body in the most
   authentic and functional positions to set the body up for success.
 ---
+
