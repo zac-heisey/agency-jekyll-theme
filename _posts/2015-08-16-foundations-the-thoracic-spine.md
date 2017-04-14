@@ -24,4 +24,4 @@ The spinal column is broken up into three segments known as the cervical spine, 
 
 So when you are training, think about the foundation (the thoracic spine) when moving in order to ensure healthy, happy, and strong shoulders.
 
-Feel free to contact [RISE Physical Therapy](/) for questions or tips on how to treat and train the thoracic spine.
+Please reach out to [RISE Physical Therapy](/) for questions or tips on how to treat and train the thoracic spine.
