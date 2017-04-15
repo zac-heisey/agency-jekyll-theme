@@ -17,3 +17,4 @@ description: At RISE, we believe that preventing an injury may be just as, if no
   the community we offer Free Injury Assessments in Solana Beach. Please contact us
   to schedule a free injury assessment, or stop by our office!
 ---
+
