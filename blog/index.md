@@ -3,26 +3,3 @@ title: RISE Physical Therapy Blog | Physical Therapy Resources
 layout: blog_page
 description: Welcome to the RISE Physical Therapy Blog. Enjoy!
 ---
-
-<!-- Blog Page -->
-  <section id="blog-home">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <h1>Welcome to the RISE Physical Therapy Blog</h1>
-          <h2>Recent Posts</h2>
-        </div>
-        <div class="col-lg-12">
-          <ul class="posts">
-            {% for post in site.categories.blog %}
-              <li>
-                <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-          <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-        </div>
-      </div>
-    </div>
-  </section>
