@@ -1,6 +1,6 @@
 # Netlify Dev Domain Redirects
-https://rise-v2.netlify.com/*   http://www.risephysicaltherapy.com/:splat    301!
-http://rise-v2.netlify.com/*    http://www.risephysicaltherapy.com/:splat    301!
+https://rise-v2.netlify.com/*   https://www.risephysicaltherapy.com/:splat    301!
+http://rise-v2.netlify.com/*    https://www.risephysicaltherapy.com/:splat    301!
 
 # RISE URL Redirects
 /affiliates         /#locations              301
