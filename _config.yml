@@ -15,7 +15,7 @@ defaults:
   values:
     permalink: "/:categories/:title"
 url: https://www.risephysicaltherapy.com
-baseurl:
+baseurl: 
 email: rise@risephysicaltherapy.com
 description: Welcome to RISE Physical Therapy. Providing physical therapy in Solana
   Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!
@@ -30,11 +30,11 @@ people:
     and food related.
   social:
   - title: twitter
-    url:
+    url: 
   - title: facebook
-    url:
+    url: 
   - title: stack-overflow
-    url:
+    url: 
 - name: Alex Kelso
   pic: alex
   position: PT, DPT, CAFS, FAFS
@@ -45,11 +45,11 @@ people:
     Functional Science fellow.
   social:
   - title: twitter
-    url:
+    url: 
   - title: facebook
-    url:
+    url: 
   - title: linkedin
-    url:
+    url: 
 - name: Thomas Russell
   pic: thomas
   position: PT, DPT, CAFS
@@ -60,11 +60,11 @@ people:
     as well.
   social:
   - title: twitter
-    url:
+    url: 
   - title: facebook
-    url:
+    url: 
   - title: google-plus
-    url:
+    url: 
 - name: Rachel Nesseth
   pic: rachel
   position: PT, DPT, CAFS
@@ -74,11 +74,11 @@ people:
     and friends.
   social:
   - title: twitter
-    url:
+    url: 
   - title: facebook
-    url:
+    url: 
   - title: google-plus
-    url:
+    url: 
 - name: Kelsey Diaz
   pic: kelsey
   position: PT, DPT
@@ -89,11 +89,11 @@ people:
     in physical therapy from UF and relocated to San Diego to start her career.
   social:
   - title: twitter
-    url:
+    url: 
   - title: facebook
-    url:
+    url: 
   - title: google-plus
-    url:
+    url: 
 social:
 - title: twitter
   url: http://twitter.com/RISE_PT
