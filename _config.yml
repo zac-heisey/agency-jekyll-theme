@@ -15,7 +15,7 @@ defaults:
   values:
     permalink: "/:categories/:title"
 url: https://www.risephysicaltherapy.com
-baseurl:
+baseurl: 
 email: rise@risephysicaltherapy.com
 description: Welcome to RISE Physical Therapy. Providing physical therapy in Solana
   Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!
@@ -54,11 +54,11 @@ people:
 - name: Kelsey Diaz
   pic: kelsey
   position: PT, DPT
-  bio: Kelsey’s first experience with physical therapy came while overcoming
-    injuries as a competitive gymnast. She became a group fitness instructor at
-    the University of Florida, which helped her realize her passion for helping
-    others stay healthy through movement. She earned her doctorate degree
-    in physical therapy from UF and relocated to San Diego.
+  bio: Kelsey’s first experience with physical therapy came while overcoming injuries
+    as a competitive gymnast. She became a group fitness instructor at the University
+    of Florida, which helped her realize her passion for helping others stay healthy
+    through movement. She earned her doctorate degree in physical therapy from UF
+    and relocated to San Diego.
 - name: Allison Gentry
   pic: allison
   position: PT, DPT, CAFS
@@ -69,12 +69,12 @@ people:
 - name: Michael Hollstegge
   pic: michael
   position: PT, DPT, CAFS, TPI-CGFI
-  bio: Michael built his foundation for Physical Therapy on his own recovery from a
-    high school basketball injury. He's an avid golfer who is as passionate about
+  bio: Michael built his foundation for Physical Therapy on his own recovery from
+    a high school basketball injury. He's an avid golfer who is as passionate about
     the game as he is about rehabilitating all patients to reach their maximum movement
     potential. Michael is also a certified golf fitness instructor through the Titleist
-    Performance Institute who can address your physical limitations, provide you with the
-    treatment to correct these limitations, and apply the results to your game.
+    Performance Institute who can address your physical limitations, provide you with
+    the treatment to correct these limitations, and apply the results to your game.
 social:
 - title: twitter
   url: http://twitter.com/RISE_PT
