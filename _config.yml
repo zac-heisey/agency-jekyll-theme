@@ -15,7 +15,7 @@ defaults:
   values:
     permalink: "/:categories/:title"
 url: https://www.risephysicaltherapy.com
-baseurl: 
+baseurl:
 email: rise@risephysicaltherapy.com
 description: Welcome to RISE Physical Therapy. Providing physical therapy in Solana
   Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!
@@ -46,7 +46,7 @@ people:
     as well.
 - name: Rachel Nesseth
   pic: rachel
-  position: PT, DPT, CAFS
+  position: PT, DPT, CAFS | Vice President
   bio: Rachel's passion for movement began with dance, which inspired her to pursue
     a career in physical therapy. When not in the clinic with patients, she enjoys
     being outdoors with her dog Emma, creating art, and enjoying good food with family
@@ -75,6 +75,10 @@ people:
     potential. Michael is also a certified golf fitness instructor through the Titleist
     Performance Institute who can address your physical limitations, provide you with
     the treatment to correct these limitations, and apply the results to your game.
+- name: Justin Ternes
+  pic: justin
+  position: PT, DPT, CAFS
+  bio: Justin found his passion of healing the human body though troubleshooting and problem solving his own athletic injuries while growing up in Fayetteville, Arkansas. He has developed his treatment to focus on full body movements strongly influenced by his co-workers at RISE and Applied Functional Science. In his spare time, he is learning how to surf, playing basketball and golf, and exploring his new home in Southern California
 social:
 - title: twitter
   url: http://twitter.com/RISE_PT
