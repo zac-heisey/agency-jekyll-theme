@@ -6,7 +6,7 @@ categories:
 layout: blog_post
 description: When it comes to pain, physical therapy should be your first line of
   defense. Learn how physical therapy can be the step 1 in injury treatment & prevention.
-featured-image: img/services/injury-prevention.jpg
+featured-image: img/blog/pt-first-line.jpg
 alt-tag: North County San Diego
 ---
 
