@@ -9,7 +9,7 @@ description: Whether you to sit all day at work or you've just killed leg day at
 layout: blog_post
 ---
 
-Whether your job requires you to sit all day or you've just killed leg day at the gym, chances are you've complained about tight hips recently. Shakira knew this all along when she released the record-breaking single "Hips Don't Lie". Corny you might say, but it's true. If your hips are constantly held in a static position (hence the statement, if you don't use it you lose it) or you place the surrounding muscles through constant grueling activation, the joint and surrounding musculature will end up getting hypomobile. They sure won't lie to you!
+Whether your job requires you to sit all day or you've just killed leg day at the gym, chances are you've complained about tight hips recently. Shakira knew this all along when she released the record-breaking single ["Hips Don't Lie"](https://www.youtube.com/watch?v=DUT5rEU6pqM). Corny you might say, but it's true. If your hips are constantly held in a static position (hence the statement, if you don't use it you lose it) or you place the surrounding muscles through constant grueling activation, the joint and surrounding musculature will end up getting hypomobile. They sure won't lie to you!
 
 ### HELP!
 
