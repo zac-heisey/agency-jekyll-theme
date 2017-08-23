@@ -3,6 +3,9 @@ title: Hips Don't Lie - How to Unlock Tight Hips
 date: 2017-08-23 14:45:00 Z
 categories:
 - blog
+description: Whether you to sit all day at work or you've just killed leg day at the
+  gym, you've likely experienced issues with tight hips. Here are 5 ways to unlock
+  those tight hips!
 layout: blog_post
 ---
 
