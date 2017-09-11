@@ -9,6 +9,8 @@ featured-image: "uploads/dancing-with-pain.jpg"
 alt-tag: dancing with pain
 ---
 
+_Written by Dr. Justin Ternes_
+
 Living with pain can turn from an annoyance into a nightmare in the blink of an eye. When this pain shifts into a higher level of intensity, we have the tendency to fight back. So often we find that the pain fights back more and typically wins. But this can change. What if I were to tell you that you have the ability to turn this into a positive experience? The key is learning how to dance with your pain rather than fighting your pain.
 
 ## Pain and Decreased Movement
