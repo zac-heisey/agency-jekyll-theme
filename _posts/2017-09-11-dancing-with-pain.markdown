@@ -7,6 +7,7 @@ description: RISE Physical Therapy's Justin Ternes explains the importance of le
   how to dance with, rather than fight, your pain.
 featured-image: uploads/dancing-with-pain.jpg
 alt-tag: dancing with pain
+layout: blog_post
 ---
 
 _Written by Dr. Justin Ternes_
