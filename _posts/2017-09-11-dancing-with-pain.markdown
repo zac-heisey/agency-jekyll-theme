@@ -5,7 +5,7 @@ categories:
 - blog
 description: RISE Physical Therapy's Justin Ternes explains the importance of leaning
   how to dance with, rather than fight, your pain.
-featured-image: "uploads/dancing-with-pain.jpg"
+featured-image: uploads/dancing-with-pain.jpg
 alt-tag: dancing with pain
 ---
 
