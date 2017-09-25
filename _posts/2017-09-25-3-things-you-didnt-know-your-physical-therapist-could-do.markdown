@@ -4,9 +4,11 @@ date: 2017-09-25 19:27:00 Z
 categories:
 - blog
 layout: blog_post
-description: There are applications for physical therapy outside of treating back pain, sports injuries, or surgical rehab. Here are 3 things physical therapists can also do.
-featured-image:
-alt-tag:
+description: There are applications for physical therapy outside of treating back
+  pain, sports injuries, or surgical rehab. Here are 3 things physical therapists
+  can also do.
+featured-image: 
+alt-tag: 
 ---
 
 _Written by Dr. Kelsey Diaz, PT, DPT, CAFS_
