@@ -9,7 +9,7 @@ layout: default
 modal-id: "-biomechanical-assessment"
 img: biomechanical-assessment.jpg
 thumbnail: biomechanical-assessment-thumbnail.jpg
-alt: image-alt
+alt: 
 description: We offer a total body biomechanical assessment to all of our patients.
   We will evaluate you from you’re your toes to your nose and regardless of diagnosis
   or injury, we seek to not only find the source of the pain or injury, but also the

@@ -9,7 +9,7 @@ layout: default
 modal-id: "-torticollis-plagiocephaly-treatment"
 img: torticollis-plagiocephaly.jpg
 thumbnail: torticollis-plagiocephaly-thumbnail.jpg
-alt: image-alt
+alt: 
 description: Many parents are not sure what to do when their child is diagnosed with
   Torticollis or its associated conditions. Regardless of the patient’s age, physical
   therapy is the primary treatment for all forms of torticollis. Torticollis can present

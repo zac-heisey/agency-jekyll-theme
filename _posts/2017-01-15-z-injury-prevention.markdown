@@ -9,7 +9,7 @@ layout: default
 modal-id: "-injury-prevention"
 img: injury-prevention.jpg
 thumbnail: injury-prevention-thumbnail.jpg
-alt: image-alt
+alt: 
 description: At RISE, we believe that preventing an injury may be just as, if not
   more important than, rehabilitating an injury. Injury prevention can lead to improved
   energy levels, elevated mood, improved ability to engage in daily activities, improved

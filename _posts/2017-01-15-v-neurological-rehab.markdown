@@ -9,7 +9,7 @@ layout: default
 modal-id: "-neurological-rehabilitation"
 img: neurological-rehab.jpg
 thumbnail: neurological-rehab-thumbnail.jpg
-alt: image-alt
+alt: 
 description: Not every patient at RISE is being treated for a musculoskeletal disorder.
   Many of our patients have had a disruption to other systems in the body and need
   help returning to the activities they enjoy. We help these individuals function

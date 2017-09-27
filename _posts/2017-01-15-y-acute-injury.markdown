@@ -9,7 +9,7 @@ layout: default
 modal-id: "-acute-injury"
 img: acute-injury.jpg
 thumbnail: acute-injury-thumbnail.jpg
-alt: image-alt
+alt: 
 description: We offer immediate treatment through the critical acute stage of injuries
   to facilitate a faster return to your normal life. An acute injury can range from
   an ankle sprain to whiplash from a motor vehicle accident. We use a wide variety

@@ -9,7 +9,7 @@ layout: default
 modal-id: "-reconditioning-deconditioning"
 img: reconditioning.jpg
 thumbnail: reconditioning-thumbnail.jpg
-alt: image-alt
+alt: 
 description: Deconditioning is the loss of function following a period of inactivity
   or decreased demand on a specific body system. At RISE Physical Therapy, we help
   individuals that have experienced a wide variety of events that may cause deconditioning.

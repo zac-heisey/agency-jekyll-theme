@@ -9,7 +9,7 @@ layout: default
 modal-id: "-pediatric-physical-therapy"
 img: pediatric-pt.jpg
 thumbnail: pediatric-pt-thumbnail.jpg
-alt: image-alt
+alt: 
 description: Working with children and young adults is one of the many wonderful privileges
   we have as active members of the North County San Diego community. Not only do our
   therapists and staff create a fun and welcoming environment for our younger patients,
