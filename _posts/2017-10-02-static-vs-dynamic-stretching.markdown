@@ -5,7 +5,7 @@ categories:
 - blog
 description: 'Many of us only know of one way to stretch: static stretching. But dynamic
   stretching can have major benefits for athletic performance & injury prevention.'
-featured-image: "/uploads/dynamic-stretches.jpg"
+featured-image: uploads/dynamic-stretches.jpg
 alt-tag: Dynamic Stretches animated chart
 layout: blog_post
 ---
