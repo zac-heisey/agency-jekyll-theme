@@ -68,3 +68,6 @@ http://rise-v2.netlify.com/*    https://www.risephysicaltherapy.com/:splat    30
 /how-elite-athletes-can-use-physical-therapy-as-part-of-their-training-program         /blog/how-elite-athletes-can-use-physical-therapy-as-part-of-their-training-program              301
 /running-injury-prevention-clinic-at-movin-shoes         /blog/running-injury-prevention-clinic-at-movin-shoes         301
 /north-county-love         /blog/north-county-love              301
+
+# Services post redirects
+/blog/services/*  /#services  301
