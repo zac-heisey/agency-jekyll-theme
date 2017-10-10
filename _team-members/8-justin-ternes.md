@@ -1,6 +1,13 @@
 ---
+title: 8 Justin Ternes
+position: 0
 name: Justin Ternes
 pic: justin
-position: PT, DPT, CAFS
-bio: Justin found his passion of healing the human body though troubleshooting and problem solving his own athletic injuries while growing up in Fayetteville, Arkansas. He has developed his treatment to focus on full body movements strongly influenced by his co-workers at RISE and Applied Functional Science. In his spare time, he is learning how to surf, playing basketball and golf, and exploring his new home in Southern California.
+bio: Justin found his passion of healing the human body though troubleshooting and
+  problem solving his own athletic injuries while growing up in Fayetteville, Arkansas.
+  He has developed his treatment to focus on full body movements strongly influenced
+  by his co-workers at RISE and Applied Functional Science. In his spare time, he
+  is learning how to surf, playing basketball and golf, and exploring his new home
+  in Southern California.
 ---
+
