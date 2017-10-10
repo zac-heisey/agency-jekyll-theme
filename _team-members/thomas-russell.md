@@ -9,3 +9,4 @@ bio: From his roots in competitive team sports, Thomas found a passion for sport
   his Certified Strength and Conditioning Specialist certification in the near future
   as well.
 ---
+

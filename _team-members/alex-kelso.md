@@ -9,3 +9,4 @@ bio: Alex found physical therapy through his own physical struggles, which built
   holds a doctorate from the University of Southern California, and is an Applied
   Functional Science fellow.
 ---
+

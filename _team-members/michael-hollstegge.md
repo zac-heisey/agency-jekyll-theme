@@ -10,3 +10,4 @@ bio: Michael built his foundation for Physical Therapy on his own recovery from 
   Performance Institute who can address your physical limitations, provide you with
   the treatment to correct these limitations, and apply the results to your game.
 ---
+

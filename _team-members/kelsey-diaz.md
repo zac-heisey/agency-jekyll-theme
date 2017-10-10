@@ -9,3 +9,4 @@ bio: Kelsey’s first experience with physical therapy came while overcoming inj
   through movement. She earned her doctorate degree in physical therapy from UF and
   relocated to San Diego.
 ---
+
