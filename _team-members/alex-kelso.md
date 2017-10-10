@@ -1,7 +1,7 @@
 ---
-title: 2 Alex Kelso
-position: 0
-name: Alex Kelso
+title: Alex Kelso
+position: 1
+credentials: PT, DPT, CAFS, FAFS
 pic: alex
 bio: Alex found physical therapy through his own physical struggles, which built his
   passion for working to improve the quality of life of his patients. Alex enjoys
@@ -9,4 +9,3 @@ bio: Alex found physical therapy through his own physical struggles, which built
   holds a doctorate from the University of Southern California, and is an Applied
   Functional Science fellow.
 ---
-

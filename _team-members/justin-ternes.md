@@ -1,7 +1,7 @@
 ---
-title: 8 Justin Ternes
-position: 0
-name: Justin Ternes
+title: Justin Ternes
+position: 7
+credentials: PT, DPT, CAFS
 pic: justin
 bio: Justin found his passion of healing the human body though troubleshooting and
   problem solving his own athletic injuries while growing up in Fayetteville, Arkansas.
@@ -10,4 +10,3 @@ bio: Justin found his passion of healing the human body though troubleshooting a
   is learning how to surf, playing basketball and golf, and exploring his new home
   in Southern California.
 ---
-

@@ -8,12 +8,13 @@
                 </div>
             </div>
             <div class="row">
-                {% for member in site.team-members %}
+                {% assign sorted_members = site.team-members | sort:"position" %}
+                {% for member in sorted_members %}
                 <div class="col-md-4">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" title="{{ member.name }} RISE Physical Therapy" alt="{{ member.name }}">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" title="{{ member.title }} RISE Physical Therapy" alt="{{ member.title }}">
+                        <h4>{{ member.title }}</h4>
+                        <p class="text-muted">{{ member.credentials }}</p>
                         <p class="text-muted">{{ member.bio }}</p>
                         <!-- <ul class="list-inline social-buttons">
                             {% for network in member.social %}

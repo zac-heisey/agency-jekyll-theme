@@ -1,7 +1,7 @@
 ---
-title: 5 Kelsey Diaz
-position: 0
-name: Kelsey Diaz
+title: Kelsey Diaz
+position: 4
+credentials: PT, DPT
 pic: kelsey
 bio: Kelsey’s first experience with physical therapy came while overcoming injuries
   as a competitive gymnast. She became a group fitness instructor at the University
@@ -9,4 +9,3 @@ bio: Kelsey’s first experience with physical therapy came while overcoming inj
   through movement. She earned her doctorate degree in physical therapy from UF and
   relocated to San Diego.
 ---
-
