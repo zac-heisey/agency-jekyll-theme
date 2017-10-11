@@ -1,7 +1,7 @@
 ---
 title: Thomas Russell
 position: 2
-credentials: PT, DPT, CAFS
+credentials: PT, DPT, CAFS | Director of Business Development
 pic: thomas
 bio: From his roots in competitive team sports, Thomas found a passion for sport-specific
   strength and conditioning which lead him to pursue a career in physical therapy.
@@ -9,4 +9,3 @@ bio: From his roots in competitive team sports, Thomas found a passion for sport
   his Certified Strength and Conditioning Specialist certification in the near future
   as well.
 ---
-
