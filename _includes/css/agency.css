@@ -649,6 +649,10 @@ section h3.locations {
     margin-top: 0;
 }
 
+.team-member p#bio {
+  text-align: left;
+}
+
 aside.clients img {
     margin: 50px auto;
 }
