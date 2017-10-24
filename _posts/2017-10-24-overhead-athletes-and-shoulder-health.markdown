@@ -5,7 +5,7 @@ categories:
 - blog
 description: Overhead athletes face specific challenges when it comes to maintaining
   shoulder health and preventing injury. RISE Physical Therapy discuss them here.
-featured-image: "/uploads/shoulder-strength-sinker-pitch.jpg"
+featured-image: uploads/shoulder-strength-sinker-pitch.jpg
 alt-tag: overhead athletes and shoulder strength
 layout: blog_post
 ---
