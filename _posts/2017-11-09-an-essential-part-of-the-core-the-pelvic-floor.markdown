@@ -8,6 +8,7 @@ description: The pelvic floor is one of the most underrated muscle groups of the
   floor.
 featured-image: "/uploads/pelvic-floor.png"
 alt-tag: pelvic floor muscles
+layout: blog_post
 ---
 
 _Written by Dr. Allison Gentry PT, DPT, CAFS_
