@@ -6,7 +6,7 @@ categories:
 description: The pelvic floor is one of the most underrated muscle groups of the human
   body. Learn about what it is, what it does, and how to maintain a strong pelvic
   floor.
-featured-image: "/uploads/pelvic-floor.png"
+featured-image: uploads/pelvic-floor.png
 alt-tag: pelvic floor muscles
 layout: blog_post
 ---
