@@ -7,7 +7,7 @@ categories:
 description: Lower back pain is a common among golfers of all levels. We highlight
   the importance of hip & spine mobility in relieving this pain, and stretches to
   prevent future injuries.
-featured-image: "/uploads/low-back-pain-golf-swing.jpg"
+featured-image: uploads/low-back-pain-golf-swing.jpg
 alt-tag: image of multiple stages of a golf swing
 layout: blog_post
 ---
@@ -32,16 +32,16 @@ Many amateur players have a hard time getting on the course frequently due to wo
 
 **1) Standing Step-Through Exercise for Thoracic Rotation**
 
-![image of standing step-through exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/standing-step-through.png?download "Standing Step-Through Exercise")
+![image of standing step-through exercise](/uploads/standing-step-through.png?download "Standing Step-Through Exercise")
 
 **2) Transverse Dowel Pendulum Exercise for Thoracic Rotation**
 
-![image of transverse dowel exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/transverse-dowel.png?download "Transverse Dowel Exercise")
+![image of transverse dowel exercise](/uploads/transverse-dowel.png?download "Transverse Dowel Exercise")
 
 **3) Standing Stork Turns Exercise for Hip Rotation**
 
-![image of standing stork exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/standing-stork.png?download "Standing Stork Exercise")
+![image of standing stork exercise](/uploads/standing-stork.png?download "Standing Stork Exercise")
 
 **4) High-Kneeling Thoracic Spine Dowel Rotation Exercises**
 
-![image of high-kneeling dowel exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/high-kneeling-dowel.png?download "High-Kneeling Dowel Exercise")
+![image of high-kneeling dowel exercise](/uploads/high-kneeling-dowel.png?download "High-Kneeling Dowel Exercise")
