@@ -32,8 +32,16 @@ Many amateur players have a hard time getting on the course frequently due to wo
 
 1. **Standing Step-Through Exercise for Thoracic Rotation**
 
+![image of standing step-through exercise](/uploads/standing-step-through.png "Standing Step-Through Exercise")
+
 2. **Transverse Dowel Pendulum Exercise for Thoracic Rotation**
+
+![image of transverse dowel exercise](/uploads/transverse-dowel.png "Transverse Dowel Exercise")
 
 3. **Standing Stork Turns Exercise for Hip Rotation**
 
+![image of standing stork exercise](/uploads/standing-stork.png "Standing Stork Exercise")
+
 4. **High-Kneeling Thoracic Spine Dowel Rotation Exercises**
+
+![image of high-kneeling dowel exercise](/uploads/high-kneeling-dowel.png "High-Kneeling Dowel Exercise")
