@@ -12,7 +12,7 @@ alt-tag: image of multiple stages of a golf swing
 layout: blog_post
 ---
 
-_Written by Dr. Michael Hollstegge PT, DPT, CAFS_
+*Written by Dr. Michael Hollstegge PT, DPT, CAFS*
 
 Many people that enjoy the game of golf end up complaining of numerous aches and pains. The most common injury of the bunch being back pain. Back pain can be so debilitating that players will end up turning to medications, surgeries, and even sometimes giving up the game all together. What many players don’t know, is what the root cause of their back pain is to begin with. At [RISE Physical Therapy](/), we can address a players physical limitations and provide them with the solutions to living a pain free life on and off the golf course.
 
@@ -30,18 +30,18 @@ Many amateur players have a hard time getting on the course frequently due to wo
 
 ## Exercises to Improve Hip and T-Spine Mobility
 
-1. **Standing Step-Through Exercise for Thoracic Rotation**
+**1) Standing Step-Through Exercise for Thoracic Rotation**
 
-![image of standing step-through exercise](/uploads/standing-step-through.png "Standing Step-Through Exercise")
+![image of standing step-through exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/standing-step-through.png?download "Standing Step-Through Exercise")
 
-2. **Transverse Dowel Pendulum Exercise for Thoracic Rotation**
+**2) Transverse Dowel Pendulum Exercise for Thoracic Rotation**
 
-![image of transverse dowel exercise](/uploads/transverse-dowel.png "Transverse Dowel Exercise")
+![image of transverse dowel exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/transverse-dowel.png?download "Transverse Dowel Exercise")
 
-3. **Standing Stork Turns Exercise for Hip Rotation**
+**3) Standing Stork Turns Exercise for Hip Rotation**
 
-![image of standing stork exercise](/uploads/standing-stork.png "Standing Stork Exercise")
+![image of standing stork exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/standing-stork.png?download "Standing Stork Exercise")
 
-4. **High-Kneeling Thoracic Spine Dowel Rotation Exercises**
+**4) High-Kneeling Thoracic Spine Dowel Rotation Exercises**
 
-![image of high-kneeling dowel exercise](/uploads/high-kneeling-dowel.png "High-Kneeling Dowel Exercise")
+![image of high-kneeling dowel exercise](/api/v2/sites/58ed2e8490daab141b5f05b0/source/_uploads/high-kneeling-dowel.png?download "High-Kneeling Dowel Exercise")
