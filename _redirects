@@ -25,6 +25,11 @@ http://rise-v2.netlify.com/*    https://www.risephysicaltherapy.com/:splat    30
 /cole-godfrey         /#team              301
 /mike-messina         /#team              301
 /colleen-page         /#team              301
+/katie-damato/         /#team              301
+/chelsea-reid/         /#team              301
+/ashleigh-lyman/         /#team              301
+/mike-messina-powered/         /#team              301
+/georgina-horwood/         /#team              301
 /about-us         /#about              301
 /testimonials         /              301
 /marcello-margott         /              301
@@ -47,6 +52,8 @@ http://rise-v2.netlify.com/*    https://www.risephysicaltherapy.com/:splat    30
 /?page_id=608         /              301
 /?p=605         /              301
 /494         /              301
+/new-gallery/         /              301
+/corporate-wellness-program/         /              301
 
 # RISE Blog Redirects
 /rise-blog         /blog              301
