@@ -1,6 +1,6 @@
 ---
 title: Martin Nguyen
-position: 9
+position: 8
 credentials: DPT
 pic: martin
 bio: Martin's interest for physical therapy was sparked by overcoming his own injuries
@@ -10,4 +10,3 @@ bio: Martin's interest for physical therapy was sparked by overcoming his own in
   Outside of the clinic, he enjoys playing pick-up basketball at the local gym, running
   along the beach, trying new foods, and exploring his new home in San Diego.
 ---
-
