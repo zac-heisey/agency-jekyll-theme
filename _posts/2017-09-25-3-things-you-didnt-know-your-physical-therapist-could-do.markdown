@@ -3,12 +3,10 @@ title: 3 Things You Didn't Know Your Physical Therapist Could Do
 date: 2017-09-25 19:27:00 Z
 categories:
 - blog
-layout: blog_post
 description: There are applications for physical therapy outside of treating back
   pain, sports injuries, or surgical rehab. Here are 3 things physical therapists
   can also do.
-featured-image: 
-alt-tag: 
+layout: blog_post
 ---
 
 _Written by Dr. Kelsey Diaz, PT, DPT, CAFS_
@@ -21,7 +19,7 @@ Temporomandibular joint disorder (TMJD) is a painful condition of the jaw than c
 
 The cervical spine has a huge impact on the mechanics of your jaw. Professions that require prolonged periods of sitting can lead to a rounded shoulder and forward head posture that can change the way your TMJ operates.
 
-![TMJ examination](http://www.recoverypt.com/wp-content/uploads/IMG_16351.jpg)
+![TMJ examination](http://www.recoverypt.com/wp-content/uploads/IMG_16351.jpg "TMJ exam physical therapy")
 
 As PTs, we can evaluate and treat postural deviations that impact the TMJ.  We can also perform manual techniques on the neck, the muscles around the TMJ and even the TMJ itself.
 
@@ -31,7 +29,7 @@ Our Point Loma clinic is located inside [Point Loma Pediatrics](http://pointloma
 
 One of the most common pediatric diagnoses we see is called congenital muscular torticollis (Latin for twisted neck). It occurs when a muscle with a very long name, the sternocleidomastoid  (SCM) is tight, causing the baby’s neck to bend one way and rotate the other. Constant rotation to one side can make one side of baby’s head flat called plagiocephaly (Greek/Latin for flat head).
 
-![Toricollis treatment](/img/services/torticollis-plagiocephaly.jpg)
+![Toricollis treatment](/img/services/torticollis-plagiocephaly.jpg "Torticollis physical therapy treatment")
 
 In the early ‘90s, the “Back to Sleep” Campaign reduced the amount of SIDS deaths by 40% but torticollis and subsequent plagiocephaly incidence increased.
 
@@ -43,7 +41,7 @@ In the early ‘90s, the “Back to Sleep” Campaign reduced the amount of SIDS
 
 Pelvic therapy is a special niche of treatment that can help with bowel and bladder problems, difficulties with sexual intercourse and post-partum issues. Sometimes it’s called “women’s health” but pelvic PTs treat patients of all ages and genders.
 
-![Pelvic Floor exercise](http://educationcareerarticles.com/wp-content/uploads/2013/08/physical-therapy.jpg)
+![Pelvic Floor exercise](http://educationcareerarticles.com/wp-content/uploads/2013/08/physical-therapy.jpg "pelvic floor physical therapy exercise")
 
 Pelvic health is not necessarily found at all outpatient physical therapy clinics. Look for someone who specializes [here](http://www.womenshealthapta.org/pt-locator/).
 
