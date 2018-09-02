@@ -3,11 +3,12 @@ title: The Do's and Don'ts of Injury Rehabilitation
 date: 2015-09-17 00:00:00 Z
 categories:
 - blog
-layout: blog_post
-description: RISE is a proud member of the North County business community. We provide
-  physical therapy in Solana Beach, Carlsbad, and Point Loma.
+description: Getting injured is no fun. Sometimes, though, the rehabilitation exercises
+  required to get you back to 100% are even more difficult. Here are some do's and
+  don'ts when it comes to injury rehabilitation.
 featured-image: img/blog/injury-rehab.jpg
 alt-tag: Injury Rehabilitation Exercises
+layout: blog_post
 ---
 
 Getting injured is no fun. Sometimes, though, the rehabilitation exercises required to get you back to 100% are even more difficult. This can sometimes lead to patients cutting corners, doing the wrong exercises or performing certain movements incorrectly, or even completely ignoring their injury rehab regimen altogether.
