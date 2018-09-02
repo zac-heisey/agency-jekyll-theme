@@ -45,7 +45,7 @@ Here are a few exercises that you can incorporate into your daily routine.
 
 5. Imagine a clock and you want to change your foot from 12 o'clock to 3 o'clock
 
-**![](https://lh6.googleusercontent.com/NL59a8n-ab7weCd0g5onzlyETyheVnfeQItMORSmrJIfsyznptmYvBPOYESzCiY14b4b61rxDQ4KmXTtcDN_RQE--yQl4nv8xrYwahp_jBIgSKNqJgr9f5kfPl8wIWdmR_ZhruYSKumagP8egQ)![](https://lh5.googleusercontent.com/IO8DSU4cWJ_t6d7kcWtaErvNluNItkaS7mpLakQZMQqTzM0gkmzS5ijOvWF4rBaI1B2L0q4XaQjypW1JmIQ314MhxbYkn8iqCoT5Fj7mIcc6xeG6zkYF7XmHrYaLQXoKI0ZrT1oCsMOGq9JYeQ)![](https://lh4.googleusercontent.com/JT_Qp-bbCbNX5HF5wzQi7xqcHS4gcYN902DcMdwdfWlWWVATs9z5Lij7qCjzgbLVTuS9gpeg5SuSEPG9Tu9_p-lN9UvJpFW_6yxx_yol9oz7X0kUxzRr8Fh3BETSXn8c08ZGArDkcl_Wbzimqg)**
+**![image of hip flexor and adductor stretch](https://lh6.googleusercontent.com/NL59a8n-ab7weCd0g5onzlyETyheVnfeQItMORSmrJIfsyznptmYvBPOYESzCiY14b4b61rxDQ4KmXTtcDN_RQE--yQl4nv8xrYwahp_jBIgSKNqJgr9f5kfPl8wIWdmR_ZhruYSKumagP8egQ "hip flexor and adductor stretch")![image of hip flexor and adductor stretch](https://lh5.googleusercontent.com/IO8DSU4cWJ_t6d7kcWtaErvNluNItkaS7mpLakQZMQqTzM0gkmzS5ijOvWF4rBaI1B2L0q4XaQjypW1JmIQ314MhxbYkn8iqCoT5Fj7mIcc6xeG6zkYF7XmHrYaLQXoKI0ZrT1oCsMOGq9JYeQ "hip flexor and adductor stretch")![image of hip flexor and adductor stretch](https://lh4.googleusercontent.com/JT_Qp-bbCbNX5HF5wzQi7xqcHS4gcYN902DcMdwdfWlWWVATs9z5Lij7qCjzgbLVTuS9gpeg5SuSEPG9Tu9_p-lN9UvJpFW_6yxx_yol9oz7X0kUxzRr8Fh3BETSXn8c08ZGArDkcl_Wbzimqg "hip flexor and adductor stretch")**
 
 **Piriformis Stretch (see images below)**
 
@@ -61,7 +61,7 @@ Here are a few exercises that you can incorporate into your daily routine.
 
 6. This stretch can be modified in many ways. Adjust your body according to your flexibility level.
 
-**![](https://lh4.googleusercontent.com/AJpPlSRxaZJJWWsdXnmsx5PRu2TyLzs_bQyifSN7hSYIMhpx7bJ-fteZCMgI8DzQrXxWmYRI_RDnnNdWej4Ou_7x11Fq9xVMe63382hYLksWH9ZOEHBIgM6SIFxdNzbLRA7te_EGJIfLgnKqnQ)![](https://lh4.googleusercontent.com/qhHZ82BcjaYYebW-tZeL2SF7vROGZgp7WuxFY_yMPG2lh3ANWVNw3pfW8p7L-6ra7hy2GeoB9bfRDNAKn2SwunAjl2qCKiNn3AmLGZ-OZ0lEFG_7MR3t96azavhF9lPycRf2nDVy8TzXr35OXw)**
+**![image of Piriformis Stretch](https://lh4.googleusercontent.com/AJpPlSRxaZJJWWsdXnmsx5PRu2TyLzs_bQyifSN7hSYIMhpx7bJ-fteZCMgI8DzQrXxWmYRI_RDnnNdWej4Ou_7x11Fq9xVMe63382hYLksWH9ZOEHBIgM6SIFxdNzbLRA7te_EGJIfLgnKqnQ "Piriformis Stretch")![image of Piriformis Stretch](https://lh4.googleusercontent.com/qhHZ82BcjaYYebW-tZeL2SF7vROGZgp7WuxFY_yMPG2lh3ANWVNw3pfW8p7L-6ra7hy2GeoB9bfRDNAKn2SwunAjl2qCKiNn3AmLGZ-OZ0lEFG_7MR3t96azavhF9lPycRf2nDVy8TzXr35OXw "Piriformis Stretch")**
 
 **IT band and Abductor Stretch (see images below)**
 
@@ -77,7 +77,7 @@ Here are a few exercises that you can incorporate into your daily routine.
 
 6. Repeat on the other side.
 
-**![](https://lh4.googleusercontent.com/SfY-H7eNhdA7ImdC1dTv8wTLnVCz9V549m4TjgPgHknLtmEtV-_ZHhebrqEzBalDboaVOIR73llWJzglnSWzE1rhtPWHP_x7CrkySsj5lUWQeCPIwio6S_kguccC1CN8DENUIoC2Yc8ajqaKtQ)![](https://lh5.googleusercontent.com/5z08oQoiSfsfQrbCF2oE8QUJiYC52fXORZA7cRQsdQ5BmsaRzn4FxErHOgrpuotw0P_2x3sgPZBDOKHQOyK7aCPWTIjINkfwdhlGQuopkj_WlwdYoN0PC8SlCbfg8mc_Rz_x4Hod0F7kxQdACg)![](https://lh4.googleusercontent.com/oHxwMMDZ4nhI3_12amsw7bukQ0B1XGoERW4r7lvuoKxDkrLZbvSYzl2ubExp0yEuk-HbNmf4H2VNOVXvhAVKVLJAO0RLxhlt4MTQCXr4wt2CvL7DglHBTow85q9YCnRwn5wd3Z46plXmxAH0oA)**
+**![image of IT band and Abductor Stretch](https://lh4.googleusercontent.com/SfY-H7eNhdA7ImdC1dTv8wTLnVCz9V549m4TjgPgHknLtmEtV-_ZHhebrqEzBalDboaVOIR73llWJzglnSWzE1rhtPWHP_x7CrkySsj5lUWQeCPIwio6S_kguccC1CN8DENUIoC2Yc8ajqaKtQ "IT band and Abductor Stretch")![image of IT band and Abductor Stretch](https://lh5.googleusercontent.com/5z08oQoiSfsfQrbCF2oE8QUJiYC52fXORZA7cRQsdQ5BmsaRzn4FxErHOgrpuotw0P_2x3sgPZBDOKHQOyK7aCPWTIjINkfwdhlGQuopkj_WlwdYoN0PC8SlCbfg8mc_Rz_x4Hod0F7kxQdACg "IT band and Abductor Stretch")![image of IT band and Abductor Stretch](https://lh4.googleusercontent.com/oHxwMMDZ4nhI3_12amsw7bukQ0B1XGoERW4r7lvuoKxDkrLZbvSYzl2ubExp0yEuk-HbNmf4H2VNOVXvhAVKVLJAO0RLxhlt4MTQCXr4wt2CvL7DglHBTow85q9YCnRwn5wd3Z46plXmxAH0oA "IT band and Abductor Stretch")**
 
 **Butterfly Adductor Stretch (see image below)**
 
@@ -89,7 +89,7 @@ Here are a few exercises that you can incorporate into your daily routine.
 
 4. Stretch is felt on the inside of your thighs
 
-**![](https://lh5.googleusercontent.com/OnB9uBnzWXlgD4a2v5eCU4xpqGBbzehPU5i6LuKExZE5LPpnDt7X1L9sgyCiYV84n5v3CfcUjx9encvfOanzmStTNlIb0U2hF_QIUdBbtEzpxUeGW-UIkhN6K70F8c9ZSRRdg3n-K5SvWiQ_Xg)**
+**![image of Butterfly Adductor Stretch](https://lh5.googleusercontent.com/OnB9uBnzWXlgD4a2v5eCU4xpqGBbzehPU5i6LuKExZE5LPpnDt7X1L9sgyCiYV84n5v3CfcUjx9encvfOanzmStTNlIb0U2hF_QIUdBbtEzpxUeGW-UIkhN6K70F8c9ZSRRdg3n-K5SvWiQ_Xg "Butterfly Adductor Stretch")**
 
 **Walking Hamstring Stretch (see images below)**
 
@@ -103,7 +103,7 @@ Here are a few exercises that you can incorporate into your daily routine.
 
 5. Alternate legs, by taking step backwards and switching your reach towards the opposite leg.
 
-**![](https://lh6.googleusercontent.com/CPpOMSvayZ8eaEmo_GcelDo3qczDLDb2eBmVlD7wBjfz4Q6MDQGb4tJLV5hSdxyxFF5-96oQmfjid1iPZjWHFJCLowzK6xOpk3zeTi9Hp0-4U_GS3IIr_Qoe1ALqH_JpKIWx-5tj9roEQ-8AOQ)![](https://lh3.googleusercontent.com/ULk-57SJEJEy8_0OOV3H-fLB-oLG7X06R0I7B2ewJPpSbxQ7OcDF-vJeE0BVRPx1p-kP5I5bt8azsnL7c5kx1PHxeAIPD-rpNnsj8shTllJatm1Q--TNrN7B-EBN1lZz4qn3IEJBvW1fnCPCbQ)![](https://lh5.googleusercontent.com/Yat5rgm2jjnmF-4IGSKGxO-wj_ElenueG-Ynd1JYVJjWaKcgxjAY_evtz0LNoMLe6BXOvvOaBcn-f3FYFvouwswW6oozAnsvoj0FdBLcG4FxIUjIMO8ItrL-oINhrttVml6dXLNImCEiD2E0fg)![](https://lh6.googleusercontent.com/A6ZGbZTxcscScVbTsANVxmpbHj2xI9jUZkiOlmpMcMyu29L8FvCQ_RRsSDEEgBnHU0X3BcY2bDo7KL7ZmToLX030G54ZTeJxMZSNV5wQkalDe2iSYPSBXJph4EJqu0RQ10Sd76ZNkXw8Dh9bsw)**
+**![image of *Walking Hamstring Stretch](https://lh6.googleusercontent.com/CPpOMSvayZ8eaEmo_GcelDo3qczDLDb2eBmVlD7wBjfz4Q6MDQGb4tJLV5hSdxyxFF5-96oQmfjid1iPZjWHFJCLowzK6xOpk3zeTi9Hp0-4U_GS3IIr_Qoe1ALqH_JpKIWx-5tj9roEQ-8AOQ "*Walking Hamstring Stretch")![image of *Walking Hamstring Stretch](https://lh3.googleusercontent.com/ULk-57SJEJEy8_0OOV3H-fLB-oLG7X06R0I7B2ewJPpSbxQ7OcDF-vJeE0BVRPx1p-kP5I5bt8azsnL7c5kx1PHxeAIPD-rpNnsj8shTllJatm1Q--TNrN7B-EBN1lZz4qn3IEJBvW1fnCPCbQ "*Walking Hamstring Stretch")![image of *Walking Hamstring Stretch](https://lh5.googleusercontent.com/Yat5rgm2jjnmF-4IGSKGxO-wj_ElenueG-Ynd1JYVJjWaKcgxjAY_evtz0LNoMLe6BXOvvOaBcn-f3FYFvouwswW6oozAnsvoj0FdBLcG4FxIUjIMO8ItrL-oINhrttVml6dXLNImCEiD2E0fg "*Walking Hamstring Stretch")![image of *Walking Hamstring Stretch](https://lh6.googleusercontent.com/A6ZGbZTxcscScVbTsANVxmpbHj2xI9jUZkiOlmpMcMyu29L8FvCQ_RRsSDEEgBnHU0X3BcY2bDo7KL7ZmToLX030G54ZTeJxMZSNV5wQkalDe2iSYPSBXJph4EJqu0RQ10Sd76ZNkXw8Dh9bsw "*Walking Hamstring Stretch")**
 
 ### Sum it up
 
