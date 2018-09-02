@@ -3,11 +3,11 @@ title: Why Physical Therapy Should Be Your First Line of Defense
 date: 2017-07-24 00:00:00 Z
 categories:
 - blog
-layout: blog_post
 description: When it comes to pain, physical therapy should be your first line of
   defense. Learn how physical therapy can be the step 1 in injury treatment & prevention.
 featured-image: img/blog/pt-first-line.jpg
 alt-tag: Physical Therapy as First Option
+layout: blog_post
 ---
 
 _Written by Dr. Rachel Nesseth_
@@ -22,7 +22,7 @@ The United States is the largest consumer of pain medication in the world. Last 
 
 I often come across patients believing that surgery is the only way to fix their injury. This is true with some conditions, and I always encourage you to look at all your options. Sometimes in physical therapy sessions leading up to surgery, patients find relief of their pain and are able to avoid going under the knife. Surgery is not always the answer, just as physical therapy is not always the answer. There are plenty of patients who, despite their efforts in physical therapy do not find relief of symptoms and the source of problems. The main idea is that people should try less invasive and expensive procedures to address their injury. Surgery has its risks and often requires physical therapy after to return to full function.
 
-![physical therapy medicine ball exercise](https://media.defense.gov/2015/Jun/23/2001075482/670/394/0/150611-F-HH943-125.JPG)
+![physical therapy medicine ball exercise](https://media.defense.gov/2015/Jun/23/2001075482/670/394/0/150611-F-HH943-125.JPG "medicine ball exercise physical therapy")
 
 **So how does it work?**
 
