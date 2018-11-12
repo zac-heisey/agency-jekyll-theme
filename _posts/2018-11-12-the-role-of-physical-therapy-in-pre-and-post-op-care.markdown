@@ -6,7 +6,7 @@ categories:
 description: Recovering from a major surgery can be physically and emotionally difficult.
   Pre and post-op physical therapy can often speed up the recovery process for many
   patients.
-featured-image: "/uploads/physical-therapy-pre-post-op-care.jpg"
+featured-image: uploads/physical-therapy-pre-post-op-care.jpg
 alt-tag: surgery room with medical staff
 layout: blog_post
 ---
