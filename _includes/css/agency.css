@@ -326,6 +326,10 @@ header#point-loma {
   background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/point-loma-header-bg.jpg');
 }
 
+header#carmel-valley {
+  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/carmel-valley-header-bg.jpg');
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -382,7 +386,7 @@ header .intro-text .intro-heading {
     .intro-heading-2 {
       margin-bottom: 40px;
       font-family: {{ site.data.template.font.secondary }};
-      font-size: 40px;
+      font-size: 30px;
       font-style: italic;
       line-height: 40px;
     }
