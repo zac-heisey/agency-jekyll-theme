@@ -1,7 +1,7 @@
 ---
 title: Thomas Russell
 position: 2
-credentials: PT, DPT, CAFS | Director of Business Development
+credentials: PT, DPT, CAFS | Chief Business Development Officer
 pic: thomas
 bio: From his roots in competitive team sports, Thomas found a passion for sport-specific
   strength and conditioning which lead him to pursue a career in physical therapy.
