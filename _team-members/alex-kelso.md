@@ -1,7 +1,7 @@
 ---
 title: Alex Kelso
 position: 1
-credentials: PT, DPT, FMR, CAFS, FAFS
+credentials: PT, DPT, FMR, CAFS, FAFS | President
 pic: alex
 bio: Alex found physical therapy through his own physical struggles, which built his
   passion for working to improve the quality of life of his patients. Alex enjoys
