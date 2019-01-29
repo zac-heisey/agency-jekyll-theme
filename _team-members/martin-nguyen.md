@@ -1,7 +1,7 @@
 ---
 title: Martin Nguyen
 position: 8
-credentials: DPT
+credentials: PT, DPT, CAFS
 pic: martin
 bio: Martin's interest for physical therapy was sparked by overcoming his own injuries
   as a competitive basketball player and long-distance runner while growing up in
