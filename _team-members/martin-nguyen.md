@@ -1,7 +1,7 @@
 ---
 title: Martin Nguyen
 position: 8
-credentials: PT, DPT, CAFS
+credentials: 'PT, DPT, CAFS | Clinic Director: Solana Beach'
 pic: martin
 bio: Martin's interest for physical therapy was sparked by overcoming his own injuries
   as a competitive basketball player and long-distance runner while growing up in
