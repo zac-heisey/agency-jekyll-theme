@@ -1,7 +1,7 @@
 ---
 title: Michael Hollstegge
 position: 6
-credentials: PT, DPT, CAFS, TPI-CGFI
+credentials: 'PT, DPT, CAFS, TPI-CGFI | Clinic Director: Carlsbad'
 pic: michael
 bio: Michael built his foundation for Physical Therapy on his own recovery from a
   high school basketball injury. He's an avid golfer who is as passionate about the
