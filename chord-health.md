@@ -23,7 +23,7 @@ description: San Diego spinal chord health.
         <p class="text-muted">We believe that healthcare should be immediate, on your schedule, and add to your life ... not get in the way of it. Pain-free movement is something we take for granted until it’s taken away from us. It’s easy to forget that movement is how we interact with the world, interact with those we care for, and is the vehicle for new, exciting experiences.</p>
       </div>
       <div class="col-lg-5">
-        <form name="chord-health-form" netlify-honeypot="surname" netlify>
+        <form name="chord-health-form" netlify-honeypot="surname" action="/thanks-schedule-chord-health/" netlify>
           <!-- Netlify honeypot field -->
           <p class='hidden'>
             <label>Don’t fill this out: <input name='surname'></label>
@@ -40,7 +40,7 @@ description: San Diego spinal chord health.
             <label for="phone">Your Phone Number</label>
             <input type="phone" name="phone" id="phone" class="form-control" required>
             <!-- DOB field -->
-            <label for="dob">Your Phone Number</label>
+            <label for="dob">Your Date of Birth</label>
             <input type="date" name="DOB" id="dob" class="form-control" required>
             <!-- Textarea -->
             <label for="condition">Tell Us About Your Condition</label>
