@@ -25,7 +25,7 @@ defaults:
     featured-image: ''
     alt-tag: ''
 url: https://www.risephysicaltherapy.com
-baseurl:
+baseurl: 
 email: rise@risephysicaltherapy.com
 description: Welcome to RISE Physical Therapy. Providing physical therapy in Solana
   Beach, Carlsbad, & Point Loma. Visit us today to schedule your appointment!
