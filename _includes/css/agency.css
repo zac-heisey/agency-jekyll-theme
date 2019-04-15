@@ -330,6 +330,10 @@ header#carmel-valley {
   background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/carmel-valley-header-bg.jpg');
 }
 
+header#chord-health {
+  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/chord-health-header-bg.jpg');
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -725,6 +729,10 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
     color: #e74c3c;
+}
+
+[name="chord-health-form"] input {
+  margin: 1rem 0;
 }
 
 footer {

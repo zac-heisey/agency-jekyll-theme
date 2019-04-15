@@ -4,30 +4,52 @@ layout: page
 description: San Diego spinal chord health.
 ---
 
-<!-- Carlsbad Location Page -->
-  <!-- Header -->
-  <header id="carlsbad">
-    <div class="container">
-      <div class="intro-text">
-        <div><h2 class="intro-lead-in">RISE Physical Therapy in Carlsbad</h2></div>
-        <div><h1 class="intro-heading">Carlsbad Physical Therapy</h1></div>
-        <a href="#location-content" class="page-scroll btn btn-xl">Visit RISE in Carlsbad</a>
+<!-- Chord Health Landing Page -->
+<header id="chord-health">
+  <div class="container">
+    <div class="intro-text">
+      <h1 class="intro-heading">Get A Healthier Spine</h1>
+      <h2 class="intro-lead-in">On Your Schedule</h2>
+      <a href="#location-content" class="page-scroll btn btn-xl">Learn More</a>
+    </div>
+  </div>
+</header>
+<section id="location-content">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7">
+        <h2 class="section-heading">Nothing is More Expensive Than Your Time</h2>
+        <h4 class="subheading">Chord Health</h4>
+        <p class="text-muted">We believe that healthcare should be immediate, on your schedule, and add to your life ... not get in the way of it. Pain-free movement is something we take for granted until it’s taken away from us. It’s easy to forget that movement is how we interact with the world, interact with those we care for, and is the vehicle for new, exciting experiences.</p>
+      </div>
+      <div class="col-lg-5">
+        <form name="chord-health-form" netlify>
+          <!-- Netlify honeypot field -->
+          <p class='hidden'>
+            <label>Don’t fill this out: <input name='surname'></label>
+          </p>
+          <!-- Standard form fields -->
+          <div class="control-group form-group">
+            <!-- Name field -->
+            <label for="name">Your Name</label>
+            <input type="text" name="name" id="name" class="form-control" required>
+            <!-- Email field -->
+            <label for="email">Your Email Address</label>
+            <input type="email" name="email" id="email" class="form-control" required>
+            <!-- Phone field -->
+            <label for="phone">Your Phone Number</label>
+            <input type="phone" name="phone" id="phone" class="form-control" required>
+            <!-- DOB field -->
+            <label for="dob">Your Phone Number</label>
+            <input type="date" name="DOB" id="dob" class="form-control" required>
+            <!-- Textarea -->
+            <label for="condition">Tell Us About Your Condition</label>
+            <textarea name="condition" id="condition" class="form-control" maxlength="2000" rows="8" cols="80" required></textarea>
+            <!-- Submit button -->
+            <input type="submit" value="Schedule Your Call" class="btn btn-xl">
+          </div>
+        </form>
       </div>
     </div>
-  </header>
-  <section id="location-content">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <h2 class="section-heading">Physical Therapy in Carlsbad</h2>
-          <h4 class="subheading">6451 El Camino Real, Suite B2<br> Carlsbad, CA 92009</h4></a>
-          <h3 class="section-subheading text-muted locations">Phone: (858) 755-5200 | Fax: (760) 804-1400</h3>
-          <p class="text-muted">Our Carlsbad office is located inside of the San Diego Premier Training gym. This new location has allowed RISE to grow and give back to more of the North County San Diego community. Our 1,500 square foot clinic offers all of the comfort and feel of an intimate clinic, while deliver top-notch physical therapy services to clients throughout the Carlsbad area.</p>
-          <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
-        </div>
-        <div class="col-lg-6">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6683.383944853974!2d-117.270481!3d33.117181!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa79a9e0a0fe0ff!2sRISE+Physical+Therapy!5e0!3m2!1sen!2sus!4v1487453387526" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+</section>

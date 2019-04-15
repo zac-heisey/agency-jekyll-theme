@@ -21,7 +21,7 @@ description: RISE Physical Therapy in Carmel Valley provides 1-on-1 physical the
       <div class="row">
         <div class="col-lg-6">
           <h2 class="section-heading">Physical Therapy in Carmel Valley</h2>
-          <h4 class="subheading">5550 Carmel Mountain Road, Suite 208B<br> San Diego, CA 92130</h4></a>
+          <h4 class="subheading">5550 Carmel Mountain Road, Suite 208B<br> San Diego, CA 92130</h4>
           <h3 class="section-subheading text-muted locations">Phone: (858) 755-5200 | Fax: (858) 314-9611</h3>
           <p class="text-muted">The most recent <a href="/">RISE Physical Therapy</a> office is located inside of our <a href="https://www.riseprimewellness.com/" target="_blank">RISE Prime Wellness</a> affiliate in Carmel Valley. This location provides patients a unique opportunity to experience the benefits of cyrotherapy and yoga, as well as receive industry-leading physical therapy in San Diego.</p>
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
