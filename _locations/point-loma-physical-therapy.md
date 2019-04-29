@@ -6,7 +6,6 @@ description: RISE Physical Therapy in Point Loma provides 1-on-1 physical therap
 ---
 
 <!-- Point Loma Location Page -->
-  <!-- Header -->
   <header id="point-loma">
     <div class="container">
       <div class="intro-text">

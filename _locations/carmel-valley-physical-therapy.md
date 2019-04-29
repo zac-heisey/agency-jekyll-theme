@@ -6,7 +6,6 @@ description: RISE Physical Therapy in Carmel Valley provides 1-on-1 physical the
 ---
 
 <!-- Carmel Valley Location Page -->
-  <!-- Header -->
   <header id="carmel-valley">
     <div class="container">
       <div class="intro-text">

@@ -6,7 +6,6 @@ description: RISE Physical Therapy in Carlsbad provides 1-on-1 physical therapy 
 ---
 
 <!-- Carlsbad Location Page -->
-  <!-- Header -->
   <header id="carlsbad">
     <div class="container">
       <div class="intro-text">

@@ -6,7 +6,6 @@ description: RISE Physical Therapy in Solana Beach provides 1-on-1 physical ther
 ---
 
 <!-- Solana Beach Location Page -->
-  <!-- Header -->
   <header id="solana-beach">
     <div class="container">
       <div class="intro-text">
