@@ -33,7 +33,7 @@ description: San Diego spinal chord health.
       </div>
     </div>
     <div class="row" id="chord-health-form">
-      <form name="chord-health-form" netlify-honeypot="surname" action="/thanks-schedule-chord-health/" netlify>
+      <form name="chord-health-form" netlify-honeypot="surname" action="/chordhealth-thank-you/" netlify>
           <!-- Netlify honeypot field -->
           <p class='hidden'>
             <label>Don’t fill this out: <input name='surname'></label>
