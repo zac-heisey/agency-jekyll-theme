@@ -741,6 +741,12 @@ section#contact .text-danger {
   margin: 1rem 0;
 }
 
+/* Sticky footer on thank you pages */
+
+#thank-you {
+  height: calc(100vh - 179px); /* 179px = height of footer element */
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
