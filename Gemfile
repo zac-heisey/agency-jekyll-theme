@@ -2,4 +2,4 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'bundler', '2.0.2'
+gem 'bundler', '2.0.1'
