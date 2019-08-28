@@ -1,7 +1,7 @@
 ---
 title: Brittany Revell
 position: 10
-credentials: PT, DPT
+credentials: PT, DPT, CAFS
 pic: brittany
 bio: Brittany’s interest in human movement developed at a young age as a dancer/gymnast/cheerleader.
   Her interest in movement quickly evolved into a passion towards helping others learn
