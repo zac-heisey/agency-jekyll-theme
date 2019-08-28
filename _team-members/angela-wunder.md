@@ -1,7 +1,7 @@
 ---
 title: Angela Wunder
 position: 4
-credentials: PT, DPT
+credentials: PT, DPT, CAFS
 pic: angela
 bio: 'Angela''s passion for rehabilitation and fascination with the human body brought
   her to physical therapy. She loves working with people from all walks of life, including
