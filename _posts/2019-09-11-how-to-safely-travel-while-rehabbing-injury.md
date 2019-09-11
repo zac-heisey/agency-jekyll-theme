@@ -3,7 +3,9 @@ title: How to Safely Travel While Rehabbing an Injury
 date: 2019-09-11 00:00:01 Z
 categories:
 - blog
-description: You don't have to cancel your travel plans if you're working to rehab  an injury. Learn how to prep and plan to travel with an injury while continuing your rehabilitation regimen.
+description: You don't have to cancel your travel plans if you're working to rehab  an
+  injury. Learn how to prep and plan to travel with an injury while continuing your
+  rehabilitation regimen.
 layout: blog_post
 ---
 
