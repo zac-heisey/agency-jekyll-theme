@@ -1,7 +1,7 @@
 ---
 title: Navid Hannanvash
 position: 0
-credentials: PT, DPT, ATC, CSCS, FMR, CAFS, FAFS | CEO & Owner
+credentials: PT, DPT, CSCS, FMR, CAFS, FAFS, AT Ret. | CEO & Owner
 pic: navid
 bio: In addition to striving to set up environments to provide the most quality care
   to his patients, Navid enjoys spending time with his friends and family, walking
