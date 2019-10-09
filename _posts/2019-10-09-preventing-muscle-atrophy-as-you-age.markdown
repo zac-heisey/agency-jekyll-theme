@@ -1,6 +1,8 @@
 ---
 title: Preventing Muscle Atrophy As You Age
 date: 2019-10-09 13:07:00 Z
+categories:
+- blog
 description: It's no secret that things change as we age, and muscle atrophy is a
   primary example. However, there are ways you can slow down the rate of muscle atrophy
   as you age.
