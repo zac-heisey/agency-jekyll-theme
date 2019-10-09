@@ -6,7 +6,7 @@ categories:
 description: It's no secret that things change as we age, and muscle atrophy is a
   primary example. However, there are ways you can slow down the rate of muscle atrophy
   as you age.
-featured-image: "/uploads/muscle-atrophy.jpg"
+featured-image: uploads/muscle-atrophy.jpg
 layout: blog_post
 ---
 
