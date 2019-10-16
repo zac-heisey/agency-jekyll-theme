@@ -3,7 +3,9 @@ title: Fascia Explained
 date: 2019-10-16 00:00:01 Z
 categories:
 - blog
-description: Fascia is a thin, clear collagen matrix much like shrink wrap that envelopes every organ, muscle, tissue, and structure in your body. Learn more about why it's important for our mobility and overall well-being.
+description: Fascia is a thin, clear collagen matrix much like shrink wrap that envelopes
+  every organ, muscle, tissue, and structure in your body. Learn more about why it's
+  important for our mobility and overall well-being.
 layout: blog_post
 ---
 
