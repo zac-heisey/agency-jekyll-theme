@@ -1,6 +1,6 @@
 ---
 title: Two Ways an Injury Can Affect the Rest of Your Body
-date: 2019-12-06 01:08:00 Z
+date: 2019-12-05 01:08:00 Z
 description: An injury to even a small, inconspicuous body part can affect your entire
   body in a major way. Learn more about how an injury to one muscle or area of your
   body can affect entirely different areas.
