@@ -6,7 +6,7 @@ categories:
 description: An injury to even a small, inconspicuous body part can affect your entire
   body in a major way. Learn more about how an injury to one muscle or area of your
   body can affect entirely different areas.
-featured-image: "/uploads/woman-back-spine.jpg"
+featured-image: uploads/woman-back-spine.jpg
 alt-tag: image of woman's back
 layout: blog_post
 ---
