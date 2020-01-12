@@ -6,7 +6,7 @@ categories:
 description: As people age, it can become more difficult to kick-off an exercise routine.
   But starting a fitness routine later in life doesn't have to be a monumental hurdle.
   Learn more about why you're never too old to start exercising.
-featured-image: "/uploads/older-exercising.jpg"
+featured-image: uploads/older-exercising.jpg
 alt-tag: older man exercising
 layout: blog_post
 ---
