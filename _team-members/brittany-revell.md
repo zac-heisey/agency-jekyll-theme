@@ -1,6 +1,6 @@
 ---
 title: Brittany Revell
-position: 10
+position: 7
 credentials: PT, DPT, CAFS
 pic: brittany
 bio: Brittany’s interest in human movement developed at a young age as a dancer/gymnast/cheerleader.
@@ -11,4 +11,3 @@ bio: Brittany’s interest in human movement developed at a young age as a dance
   of all ages, including the kiddos! She is a San Diego native who loves dancing,
   spending time with family/friends, and playing with her two adorable dogs.
 ---
-

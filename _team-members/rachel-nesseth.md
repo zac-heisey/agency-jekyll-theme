@@ -1,6 +1,6 @@
 ---
 title: Rachel Nesseth
-position: 3
+position: 2
 credentials: PT, DPT, CAFS | Vice President
 pic: rachel
 bio: Rachel's passion for movement began with dance, which inspired her to pursue
@@ -8,4 +8,3 @@ bio: Rachel's passion for movement began with dance, which inspired her to pursu
   outdoors with her dog Emma, creating art, and enjoying good food with family and
   friends.
 ---
-

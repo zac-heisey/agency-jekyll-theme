@@ -1,6 +1,6 @@
 ---
 title: Michael Hollstegge
-position: 6
+position: 5
 credentials: 'PT, DPT, CAFS, TPI-CGFI | Clinic Director: Carlsbad'
 pic: michael
 bio: Michael built his foundation for Physical Therapy on his own recovery from a
@@ -10,4 +10,3 @@ bio: Michael built his foundation for Physical Therapy on his own recovery from 
   Performance Institute who can address your physical limitations, provide you with
   the treatment to correct these limitations, and apply the results to your game.
 ---
-

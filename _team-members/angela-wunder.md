@@ -8,4 +8,3 @@ bio: 'Angela''s passion for rehabilitation and fascination with the human body b
   our littlest clients who are just getting their start on life. She enjoys unwinding
   by exercising, yoga, or surfing, and spending time with her daughter. '
 ---
-
