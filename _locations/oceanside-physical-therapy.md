@@ -1,7 +1,8 @@
 ---
 title: Oceanside Physical Therapy
 layout: locations
-description: Oceanside physical therapy. RISE Physical Therapy in Oceanside provides 1-on-1 physical therapy treatment. Injury prevention, post-op care, and more.
+description: Oceanside physical therapy. RISE Physical Therapy in Oceanside provides
+  1-on-1 physical therapy treatment. Injury prevention, post-op care, and more.
 ---
 
 <!-- Oceanside Location Page -->

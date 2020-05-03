@@ -1,7 +1,9 @@
 ---
 title: Encinitas Physical Therapy
 layout: locations
-description: RISE Physical Therapy in Encinitas, CA. Premier 1-on-1 physical therapy treatment for patients in Encinitas. Visit our new Encinitas physical therapy clinic today.
+description: RISE Physical Therapy in Encinitas, CA. Premier 1-on-1 physical therapy
+  treatment for patients in Encinitas. Visit our new Encinitas physical therapy clinic
+  today.
 ---
 
 <!-- Encinitas Location Page -->

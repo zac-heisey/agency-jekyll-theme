@@ -1,7 +1,9 @@
 ---
 title: El Cajon Physical Therapy
 layout: locations
-description: El Cajon physical therapy at RISE Physical Therapy. We are the premier 1-on-1 physical therapy provider in San Diego County. Get physical therapy in El Cajon at RISE.
+description: El Cajon physical therapy at RISE Physical Therapy. We are the premier
+  1-on-1 physical therapy provider in San Diego County. Get physical therapy in El
+  Cajon at RISE.
 ---
 
 <!-- El Cajon Location Page -->
