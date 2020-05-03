@@ -45,7 +45,6 @@ http://rise-v2.netlify.com/*    https://www.risephysicaltherapy.com/:splat    30
 /silver-strand-physical-therapy         /#locations              301!
 /what-does-rise-mean-to-you         /              301!
 /tag/*         /              301!
-/locations/encinitas-physical-therapy        /#locations              301!
 /testimonials/page/2/         /              301!
 /welcome-dr-alex-kelso/feed/         /              301!
 /?page_id=608         /              301!
