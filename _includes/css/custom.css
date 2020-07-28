@@ -98,12 +98,7 @@ td, th {
 }
 
 #services * {
-    z-index: 2;
-}
-
-#insurance ul {
-  list-style: none;
-  padding: 0;
+  z-index: 2;
 }
 
 @media(min-width:767px) {
