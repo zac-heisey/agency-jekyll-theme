@@ -1,6 +1,6 @@
 ---
 title: Roger Sheen
-position: 13
+position: 12
 credentials: PT, DPT, CAFS
 pic: roger
 bio: Roger spent his educational career in pursuing health, with the goal to bring
@@ -10,4 +10,3 @@ bio: Roger spent his educational career in pursuing health, with the goal to bri
   In his free time, he enjoys hiking, working out, indoor bouldering, snowboarding,
   and golfing.
 ---
-
