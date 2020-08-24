@@ -10,3 +10,4 @@ bio: Matt is a San Diego native who was drawn to physical therapy by his fascina
   in Health & Exercise from Regis University in Denver, CO, along with his Doctoral
   of Physical Therapy from SDSU.
 ---
+
