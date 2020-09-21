@@ -1,6 +1,7 @@
 ---
 title: Kieran Patalano
 date: 2020-09-21 16:03:00 Z
+position: 15
 credentials: PT, DPT
 pic: kieran
 bio: Kieran grew up running track and cross country, where several injuries brought
