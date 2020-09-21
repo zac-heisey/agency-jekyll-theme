@@ -1,7 +1,7 @@
 ---
 title: Katie Hemphill
 position: 10
-credentials: PT, DPT
+credentials: PT, DPT, CAFS
 pic: katie
 bio: Katie grew up in Anchorage, Alaska where she developed a love for the outdoors
   and living an active lifestyle. She also fell in love with the sunshine and warmer
