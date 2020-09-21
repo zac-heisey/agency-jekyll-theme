@@ -1,7 +1,7 @@
 ---
 title: Deniz High
 position: 14
-credentials: PT, DPT, CSCS
+credentials: PT, DPT, CMT
 pic: deniz
 bio: Deniz is originally from the Bay Area, but completed her undergraduate degree
   at SDSU and doctor of physical therapy from the University of St. Augustine. She
