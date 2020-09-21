@@ -1,6 +1,7 @@
 ---
 title: Lauren Union
 date: 2020-09-21 16:05:00 Z
+position: 16
 credentials: PT, DPT
 pic: lauren
 bio: Lauren was born and raised in San Diego, CA where she earned her Doctorate of
