@@ -1,6 +1,7 @@
 ---
 title: Sean Siemens
 date: 2020-09-21 16:06:00 Z
+position: 17
 credentials: PT, DPT
 pic: sean
 bio: Sean grew up in Orange County spending most of his childhood on soccer fields
