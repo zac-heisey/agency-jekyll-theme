@@ -1,7 +1,7 @@
 ---
 title: David Bailey
 position: 6
-credentials: PT, DPT, FMR, FAFS
+credentials: PT, DPT, FMR, FAFS | East Country Regional Manager
 pic: david
 bio: David first became interested in physical therapy when introduced to Applied
   Functional Science in 2006. At the time he was practicing Tai Chi, Kung Fu and Qigong,
