@@ -11,3 +11,4 @@ bio: Lauren was born and raised in San Diego, CA where she earned her Doctorate 
   maintain an active lifestyle. Lauren enjoys puns, traveling, hiking, running, being
   a Young Life leader, and spending time with her friends/family.
 ---
+
