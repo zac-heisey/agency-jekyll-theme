@@ -1,8 +1,8 @@
 ---
 title: Lauren Union
 date: 2020-09-21 16:05:00 Z
-position: 16
-credentials: PT, DPT
+position: 15
+credentials: PT, DPT, CAFS
 pic: lauren
 bio: Lauren was born and raised in San Diego, CA where she earned her Doctorate of
   Physical Therapy at San Diego State University. She built her passion for physical
@@ -11,4 +11,3 @@ bio: Lauren was born and raised in San Diego, CA where she earned her Doctorate 
   maintain an active lifestyle. Lauren enjoys puns, traveling, hiking, running, being
   a Young Life leader, and spending time with her friends/family.
 ---
-

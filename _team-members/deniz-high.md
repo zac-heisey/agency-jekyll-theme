@@ -1,6 +1,6 @@
 ---
 title: Deniz High
-position: 14
+position: 13
 credentials: PT, DPT, CMT
 pic: deniz
 bio: Deniz is originally from the Bay Area, but completed her undergraduate degree
@@ -11,4 +11,3 @@ bio: Deniz is originally from the Bay Area, but completed her undergraduate degr
   improve their quality of life. Outside of work, she enjoys cooking, baking, and
   any outdoor activities.
 ---
-

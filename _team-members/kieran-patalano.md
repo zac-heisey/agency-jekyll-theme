@@ -1,7 +1,7 @@
 ---
 title: Kieran Patalano
 date: 2020-09-21 16:03:00 Z
-position: 15
+position: 14
 credentials: PT, DPT
 pic: kieran
 bio: Kieran grew up running track and cross country, where several injuries brought
@@ -12,4 +12,3 @@ bio: Kieran grew up running track and cross country, where several injuries brou
   patients of all ages. Kieran enjoys running by the ocean, hiking, yoga, salsa dancing,
   and adventures with her two incredible dogs.
 ---
-

@@ -1,7 +1,7 @@
 ---
 title: Sean Siemens
 date: 2020-09-21 16:06:00 Z
-position: 17
+position: 16
 credentials: PT, DPT
 pic: sean
 bio: Sean grew up in Orange County spending most of his childhood on soccer fields
@@ -13,4 +13,3 @@ bio: Sean grew up in Orange County spending most of his childhood on soccer fiel
   health including mental, emotional, and physical elements. In his spare time, Sean
   enjoys playing beach volleyball, surfing, and hiking.
 ---
-
