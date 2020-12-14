@@ -11,3 +11,4 @@ bio: Bridget grew up in North Dakota, but until recently has spent most of her a
   in the clinic. When not in the clinic she can be found hiking and exploring CA with
   her husband, son, and Beagle-mix "Riley."
 ---
+
