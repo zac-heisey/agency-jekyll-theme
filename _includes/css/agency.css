@@ -330,6 +330,10 @@ header#carmel-valley {
   background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/carmel-valley-header-bg.jpg');
 }
 
+header#escondido {
+  background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/escondido-header-bg.png');
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
