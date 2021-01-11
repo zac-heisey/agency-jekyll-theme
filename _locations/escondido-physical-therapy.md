@@ -1,8 +1,8 @@
 ---
 title: Escondido Physical Therapy
 layout: locations
-description: RISE Physical Therapy in Escondido provides 1-on-1 physical therapy
-  treatment. Come see why we're the premier Escondido physical therapy clinic.
+description: RISE Physical Therapy in Escondido provides 1-on-1 physical therapy treatment.
+  Come see why we're the premier Escondido physical therapy clinic.
 ---
 
 <!-- Escondido Location Page -->
