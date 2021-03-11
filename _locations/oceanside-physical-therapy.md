@@ -22,7 +22,7 @@ description: Oceanside physical therapy. RISE Physical Therapy in Oceanside prov
           <h2 class="section-heading">Physical Therapy in Oceanside</h2>
           <h4 class="subheading">2204 El Camino Real, Suite 225<br> Oceanside, CA 92054</h4>
           <h3 class="section-subheading text-muted locations">Phone: (858) 755-5200 | Fax: (760) 826-2525</h3>
-          <p class="text-muted">Our new Oceanside office is conveniently located right off of El Camino. We are extremely excited to provide quality care to our patients in the Oceanside area.</p>
+          <p class="text-muted">Our brand-new Oceanside office provides high quality, one-on-one care for many of our patients in the coastal area. Close to hospitals and other medical facilities, this RISE location has become a pillar for quality service in the Oceanside area.</p>
           <p class="text-muted">From injury prevention to post-op care, the team at RISE Physical Therapy is here to provide expert 1-on-1 physical therapy in Oceanside, CA.</p>
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>
