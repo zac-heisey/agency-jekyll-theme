@@ -21,7 +21,7 @@ description: RISE Physical Therapy in Chula Vista provides 1-on-1 physical thera
         <div class="col-lg-6">
           <h2 class="section-heading">Physical Therapy in Chula Vista</h2>
           <h4 class="subheading">1172 3rd Avenue, Suite D6<br> Chula Vista, CA 91911</h4>
-          <h3 class="section-subheading text-muted locations">Phone: (619) 941-2680 | Fax: (619) 739-4701</h3>
+          <h3 class="section-subheading text-muted locations">Phone: (858) 755-5200 | Fax: (619) 739-4701</h3>
           <p class="text-muted">Located inside Functional Republic, our brand-new Chula Vista location is excited to partner with one of the most unique training facilities in the area.</p>
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>

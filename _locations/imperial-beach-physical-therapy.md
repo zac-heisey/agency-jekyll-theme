@@ -21,7 +21,7 @@ description: RISE Physical Therapy in Imperial Beach provides 1-on-1 physical th
         <div class="col-lg-6">
           <h2 class="section-heading">Physical Therapy in Imperial Beach</h2>
           <h4 class="subheading">760 13th Street<br> Imperial Beach, CA 91932</h4>
-          <h3 class="section-subheading text-muted locations">Phone: (619) 941-2680 | Fax: (619) 941-2681</h3>
+          <h3 class="section-subheading text-muted locations">Phone: (858) 755-5200 | Fax: (619) 941-2681</h3>
           <p class="text-muted">Our Imperial Beach location has previously operated under the name Silver Strand Physical Therapy. We are excited to merge under our parent company and continue to bring unparalleled service to the Imperial Beach area. Located in the heart of IB, our facility provides 1-on-1 physical therapy to patients in the South Bay.</p>
           <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>
