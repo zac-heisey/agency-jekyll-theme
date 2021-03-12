@@ -1,8 +1,8 @@
 ---
 title: Chula Vista Physical Therapy
 layout: locations
-description: RISE Physical Therapy in Chula Vista provides 1-on-1 physical therapy treatment.
-  Come see why we're the premier Chula Vista physical therapy clinic.
+description: RISE Physical Therapy in Chula Vista provides 1-on-1 physical therapy
+  treatment. Come see why we're the premier Chula Vista physical therapy clinic.
 ---
 
 <!-- Chula Vista Location Page -->
