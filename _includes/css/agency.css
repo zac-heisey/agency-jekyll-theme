@@ -314,6 +314,8 @@ header {
     -o-background-size: cover;
 }
 
+/* Location page headers */
+
 header#solana-beach {
   background-image: linear-gradient(to top, rgba(100, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('{{ site.baseurl }}/img/locations/solana-beach-header-bg.jpg');
 }
