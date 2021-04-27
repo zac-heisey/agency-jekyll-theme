@@ -9,7 +9,7 @@ description: RISE Physical Therapy in Carlsbad provides 1-on-1 physical therapy 
   <header id="carlsbad">
     <div class="container">
       <div class="intro-text">
-        <div><h2 class="intro-lead-in">RISE Physical Therapy in Carlsbad</h2></div>
+        <div><h2 class="intro-lead-in">Visit RISE Physical Therapy</h2></div>
         <div><h1 class="intro-heading">Physical Therapy in Carlsbad</h1></div>
         <a href="#location-content" class="page-scroll btn btn-xl">Visit RISE in Carlsbad</a>
       </div>
