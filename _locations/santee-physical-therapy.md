@@ -1,5 +1,5 @@
 ---
-title: Santee Physical Therapy
+title: Physical Therapy in Santee
 layout: locations
 description: RISE Physical Therapy in Santee provides 1-on-1 physical therapy treatment.
   Come see why we're the premier Santee physical therapy clinic.
@@ -9,8 +9,8 @@ description: RISE Physical Therapy in Santee provides 1-on-1 physical therapy tr
   <header id="santee">
     <div class="container">
       <div class="intro-text">
-        <div><h2 class="intro-lead-in">RISE Physical Therapy in Santee</h2></div>
-        <div><h1 class="intro-heading">Santee Physical Therapy</h1></div>
+        <div><h2 class="intro-lead-in">Visit RISE Physical Therapy</h2></div>
+        <div><h1 class="intro-heading">Physical Therapy in Santee</h1></div>
         <a href="#location-content" class="page-scroll btn btn-xl">Visit RISE in Santee</a>
       </div>
     </div>
