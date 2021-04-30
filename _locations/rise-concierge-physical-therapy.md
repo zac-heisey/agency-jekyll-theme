@@ -1,7 +1,8 @@
 ---
 title: RISE Concierge Physical Therapy
 layout: locations
-description: RISE Concierge Physical Therapy via San Diego Orthobiologics Medical Group
+description: RISE Concierge Physical Therapy via San Diego Orthobiologics Medical
+  Group
 ---
 
 <!-- Concierge Location Page -->
