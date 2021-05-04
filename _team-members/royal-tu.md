@@ -1,7 +1,7 @@
 ---
 title: Royal Tu
 date: 2020-12-14 00:00:01 Z
-position: 22
+position: 20
 credentials: PT, DPT
 pic: royal
 bio: Royal is a proud San Diego native who found his passion in physical therapy after
@@ -13,4 +13,3 @@ bio: Royal is a proud San Diego native who found his passion in physical therapy
   outdoors with friends & family, playing basketball, volleyball, fishing and working
   on cars.
 ---
-

@@ -1,6 +1,6 @@
 ---
 title: Bradley Bourgeois
-position: 9
+position: 7
 credentials: PT, DPT, CAFS
 pic: brad
 bio: Brad is a San Diego native with a passion for therapy that developed taking care
@@ -11,4 +11,3 @@ bio: Brad is a San Diego native with a passion for therapy that developed taking
   to improve his and his patients’ day to day lives. Outside the clinic he enjoys
   hiking, adventures with his dog, and enjoying time with his family and friends.
 ---
-

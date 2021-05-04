@@ -1,7 +1,7 @@
 ---
 title: Darren Sumbillo
 date: 2020-12-14 00:00:01 Z
-position: 18
+position: 16
 credentials: PT, DPT
 pic: darren
 bio: Darren is a San Diego native who earned his bachelor's degree in Kinesiology
@@ -12,4 +12,3 @@ bio: Darren is a San Diego native who earned his bachelor's degree in Kinesiolog
   and unable to perform their favorite activities. As a physical therapist, he believes
   that improving one aspect of someone’s life can positively affect all others.
 ---
-

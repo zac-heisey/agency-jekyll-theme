@@ -1,6 +1,6 @@
 ---
 title: David Bailey
-position: 6
+position: 5
 credentials: PT, DPT, FMR, FAFS | East Country Regional Manager
 pic: david
 bio: David first became interested in physical therapy when introduced to Applied
@@ -11,4 +11,3 @@ bio: David first became interested in physical therapy when introduced to Applie
   family and friends, reading, hiking and can be found exploring the various coffee
   shops around the county.
 ---
-

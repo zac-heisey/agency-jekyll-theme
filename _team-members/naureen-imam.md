@@ -1,0 +1,8 @@
+---
+title: Narueen Imam
+date: 2021-05-04 00:00:01 Z
+position: 29
+credentials: PT, DPT
+pic: naureen
+bio: Naureen Imam specializes in orthopedic and neurologic physical therapy, with a special interest in serving patients with movement disorders such as dystonia and Parkinson’s disease. She is a certified PWR! Moves and LSVT BIG therapist and especially enjoys challenging -- and being inspired -- by her patients in Rock Steady Boxing classes. Naureen loves researching new approaches and cutting-edge techniques to build personalized plans for each individual she works with, with the ultimate goal of empowering them with the skills they need to overcome any obstacle. Naureen earned her Doctorate in Physical Therapy from the University of St. Augustine for Health Sciences, her Master of Biomedical Sciences from Rutgers University, and her undergraduate degree in Sociology and Spanish from Emory University. In her free time, Naureen enjoys hiking, reading, and exploring San Diego’s ever-changing boba tea shops.   
+---

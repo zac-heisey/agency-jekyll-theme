@@ -1,8 +1,8 @@
 ---
 title: Katie Gilliland
 date: 2020-12-14 00:00:01 Z
-position: 21
-credentials: PT, DPT
+position: 19
+credentials: PT, DPT, CAFS
 pic: katie-g
 bio: Katie’s passion for movement began with her participation in sports growing up,
   including soccer, dance, water polo, and swim. She continued to learn about the
@@ -12,4 +12,3 @@ bio: Katie’s passion for movement began with her participation in sports growi
   to be pain free and achieve their own personal goals. When not in the clinic she
   enjoys hiking, spending time outdoors, swimming, and cuddling with her cat Mango.
 ---
-

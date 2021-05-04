@@ -647,6 +647,7 @@ section h3.locations {
     margin-bottom: 50px;
     text-align: center;
     height: 705px;
+    overflow: hidden;
 }
 
 .team-member img {

@@ -1,6 +1,6 @@
 ---
 title: Katie Hemphill
-position: 10
+position: 8
 credentials: PT, DPT, CAFS
 pic: katie
 bio: Katie grew up in Anchorage, Alaska where she developed a love for the outdoors
@@ -10,4 +10,3 @@ bio: Katie grew up in Anchorage, Alaska where she developed a love for the outdo
   had a passion for dancing, and is excited for her career in physical therapy helping
   people move better and get back to pursuing their life passions.
 ---
-
