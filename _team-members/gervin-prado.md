@@ -1,6 +1,6 @@
 ---
-title: Gervin Pardo
-date: 2021-05-04 00:00:01 Z
+title: Gervin Prado
+date: 2021-05-04 00:00:00 Z
 position: 21
 credentials: PT, DPT, CAFS, TPI-cert
 pic: gervin
