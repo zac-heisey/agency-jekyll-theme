@@ -12,3 +12,4 @@ bio: Darren is a San Diego native who earned his bachelor's degree in Kinesiolog
   and unable to perform their favorite activities. As a physical therapist, he believes
   that improving one aspect of someone’s life can positively affect all others.
 ---
+

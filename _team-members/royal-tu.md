@@ -13,3 +13,4 @@ bio: Royal is a proud San Diego native who found his passion in physical therapy
   outdoors with friends & family, playing basketball, volleyball, fishing and working
   on cars.
 ---
+

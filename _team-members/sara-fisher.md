@@ -10,3 +10,4 @@ bio: Sara discovered physical therapy as a patient herself. She learned that mov
   care of her (way too many) plants. She holds a Doctorate in Physical Therapy from
   California State University, Northridge and is a Registered Yoga Teacher.
 ---
+

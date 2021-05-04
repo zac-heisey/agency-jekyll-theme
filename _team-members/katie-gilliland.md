@@ -12,3 +12,4 @@ bio: Katie’s passion for movement began with her participation in sports growi
   to be pain free and achieve their own personal goals. When not in the clinic she
   enjoys hiking, spending time outdoors, swimming, and cuddling with her cat Mango.
 ---
+

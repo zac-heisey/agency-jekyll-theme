@@ -11,3 +11,4 @@ bio: David first became interested in physical therapy when introduced to Applie
   family and friends, reading, hiking and can be found exploring the various coffee
   shops around the county.
 ---
+
