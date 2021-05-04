@@ -23,11 +23,21 @@ description: RISE Concierge Physical Therapy via San Diego Orthobiologics Medica
           <h4 class="subheading">6125 Paseo Del Norte #100<br> Carlsbad, CA 92011</h4>
           <h3 class="section-subheading text-muted locations">Phone: (858) 252-4764</h3>
           <p class="text-muted">RISE is proud to partner with San Diego Orthobiologics Medical Group to provide patients with a Concierge Physical Therapy service. Located inside the beautiful SDOMG facility, RISE Concierge will provide a unique experience for patients to continue their care from Dr. Christopher Rogers and Dr. Mary Ambach. Patients will receive out-of-network care with our highly skilled regenerative medicine focused Doctor of Physical Therapy.</p>
-          <p class="text-muted">Please call or text 858-252-4764 or email concierge@risephysicaltherapy.com for more details.</p>
-          <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>
         <div class="col-lg-6">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3341.667753147856!2d-117.32046328480921!3d33.11781758087042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc72e0fad1caf9%3A0xad8acdc50d82bdd7!2s6125%20Paseo%20Del%20Norte%20%23100%2C%20Carlsbad%2C%20CA%2092011!5e0!3m2!1sen!2sus!4v1619808857896!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="row" style="margin-top: 2rem;">
+        <div class="col-lg-4">
+          <img src="/img/team/darren-mallinson.jpg" alt="darren mallinson headshot">
+        </div>
+        <div class="col-lg-8">
+          <h4>Darren Mallinson</h4>
+          <p class="text-muted">PT, OCS, CAFS, CSCS</p>
+          <p class="text-muted">Darren is a European trained physical therapist with a wide breadth of experience. He received is training from the Hoogeschol van Amsterdam, and he has maintained a lifelong passion to help people return to their lives. Darren uses his physical therapy training supplemented with a Strength and Conditioning certification to treat the whole patient. From working with soccer players in Holland, dancers in New York, Surfers in San Diego, and injured workers in Seattle, he has been able to help many people return to the activities that they love. In his free time he likes to travel, hike, play soccer, surf and golf.</p>
+          <p class="text-muted">Please call or text 858-252-4764 or email concierge@risephysicaltherapy.com for more details.</p>
+          <a href="#contact" class="page-scroll btn btn-xl" id="location-contact-btn">Contact Us Today</a>
         </div>
       </div>
     </div>
